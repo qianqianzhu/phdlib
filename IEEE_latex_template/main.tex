@@ -1,0 +1,90 @@
+% for peerj release 
+\newif\ifpeerj
+%\peerjtrue
+\peerjfalse
+\ifpeerj  % for peerj 
+    %\documentclass[fleqn,10pt,lineno]{wlpeerj} % For journal submissions
+    \documentclass[conference]{IEEEtran} % For preprint submissions
+    \newcommand\PEERJ[1]{#1}
+    \newcommand\NOTPEERJ[1]{}
+\else   % for mutation 2017 
+    \documentclass[conference]{IEEEtran}
+    \newcommand\PEERJ[1]{}
+    \newcommand\NOTPEERJ[1]{#1}
+\fi
+
+\usepackage{cite,amsfonts,url,booktabs,multirow,color,amsmath,balance}
+\usepackage[caption=false,font=footnotesize]{subfig}
+\usepackage[pdftex]{graphicx}
+%\usepackage[colorlinks,bookmarksopen,bookmarksnumbered,citecolor=red,urlcolor=red]{hyperref}
+  % declare the path(s) where your graphic files are
+\graphicspath{{./images/}}
+
+\usepackage{relsize}
+%\usepackage{enumitem}
+
+% macro
+% for remark label
+\usepackage{amssymb}
+  {\newcommand{\nb}[2]{
+    \fbox{\bfseries\sffamily\scriptsize#1}
+    {\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}
+   }
+
+\newif\ifrelease
+%\releasetrue
+\releasefalse
+\ifrelease  % for comments 
+    \newcommand\QIANQIAN[1]{}
+    \newcommand\ANDY[1]{}
+\else
+    \newcommand\QIANQIAN[1]{\nb{Qianqian}{#1}}
+    \newcommand\ANDY[1]{\nb{Andy}{#1}}
+\fi
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\begin{document}
+
+\title{Research Paper Title}
+
+% author names and affiliations
+% use a multiple column layout for up to three different
+% affiliations
+\author{\IEEEauthorblockN{Qianqian Zhu}
+\IEEEauthorblockA{Delft University of Technology\\
+Email: qianqian.zhu@tudelft.nl}
+\and
+\IEEEauthorblockN{Andy Zaidman}
+\IEEEauthorblockA{Delft University of Technology\\
+Email: a.e.zaidman@tudelft.nl}}
+\maketitle
+
+\begin{abstract}
+
+Mutation testing is widely considered as a high-end test criterion due to the vast number of mutants it generates. Although many efforts have been made to reduce the computational cost of mutation testing, its scalability issue remains in practice. In this paper, we introduce a novel method to speed up mutation testing based on state infection information. In addition to filtering out uninfected test executions, we further select a subset of mutants and a subset of test cases to run leveraging data-compression techniques. In particular, we adopt Formal Concept Analysis (FCA) to group similar mutants together and then select test cases to cover these mutants. To evaluate our method, we conducted an experimental study on six open source Java projects. We used EvoSuite to automatically generate test cases and to collect mutation data. The initial results show that our method can reduce the execution time by 83.93\% with only 0.257\% loss in precision. 
+
+\end{abstract}
+
+\IEEEpeerreviewmaketitle
+
+\section{Introduction}
+
+Mutation testing is a fault-based testing technique that has been very actively investigated by researchers since the 1970s. Mutation testing introduces small syntactic changes into the program to generate faulty versions (mutants) according to well-defined rules (mutation operators)~\cite{offutt2011mutation}. Then the quality of a test suite can be qualified as the percentage of mutants it distinguishes from the original program (mutation score). The benefits of mutation testing have been shown in many empirical studies, e.g.~\cite{mathur1994empirical, andrews2005mutation}. %: (1) better fault exposing capability compare to other test coverage criteria, e.g. all-use~\cite{mathur1994empirical,frankl1997all,li2009experimental}; (2) a good alternative to real faults which can provide a good indication of the fault detection ability of a test suite (e.g. Andrews et al.~\cite{andrews2005mutation}). \ANNIBALE{What is the difference between the two points? They seem quite equivalent (or perhaps I missed something).}
+
+Despite its well-known advantages, mutation testing is currently not widely applied.
+This is due to the computational cost incurred from executing each mutation against the test suite 
+to obtain the mutation score and the number of mutants increasing dramatically with the size of the program. 
+
+To address these limitations, several methods have been proposed in literature, such as mutant sampling~\cite{acree1980mutation} and selective mutation~\cite{offutt1996experimental}. Differently from the aforementioned methods that are independent of the program under test, other procedures have been developed  
+to further optimise the mutation execution procedure given the program under test. State-of-the-art techniques falling into this category filter unnecessary executions based on the dynamic information at run-time, e.g., line coverage~\cite{schuler2009javalanche} and state infection~\cite{just2014efficient}. 
+
+In this paper, we further optimise mutation execution using data compression techniques based on state infection. In addition to filtering out unnecessary test executions, we ``compress" mutation execution by selecting a subset of mutants and a subset of test cases to estimate the mutation score with minimal loss of precision. We coined our method ``ComMT", which is short for \underline{Com}pressed \underline{M}utation \underline{T}esting. 
+
+
+{\balance}
+\bibliographystyle{IEEEtran}
+\bibliography{mybib}
+
+\end{document}
