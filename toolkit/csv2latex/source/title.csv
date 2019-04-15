@@ -1,0 +1,177 @@
+Testing real-time embedded systems using timed automata based approaches
+Efficient Mutation Killers in Action
+Killing strategies for model-based mutation testing
+A state-based approach to integration testing based on UML models
+General test result checking with log file analysis
+Using mutation analysis for assessing and comparing testing coverage criteria
+An analysis of the relationship between conditional entropy and failed error propagation in software testing
+A case study using the round-trip strategy for state-based class testing
+Using mutation to assess fault detection capability of model review
+Adaptive random testing: An illusion of effectiveness?
+Multi-objective construction of an entire adequate test suite for an EFSM
+The right choice matters! SMT solving substantially improves model-based debugging of spreadsheets
+An empirical evaluation of mutation testing for improving the test quality of safety-critical software
+Test input generation using UML sequence and state machines models
+Sound and quasi-complete detection of infeasible test requirements
+Building trust into oo components using a genetic analogy
+Genes and bacteria for automatic test cases optimization in the. net environment
+From genetic to bacteriological algorithms for mutation-based testing
+Exploiting model morphology for event-based testing
+"Mutation Testing of"" Go-Back"" Functions Based on Pushdown Automata"
+Automatic XACML requests generation for policy testing
+Assessing and improving state-based class testing: A series of experiments
+Using simulation to empirically investigate test coverage criteria based on statechart
+Improving statechart testing criteria using data flow information
+The effects of time constraints on test case prioritization: A series of controlled experiments
+An automated approach to reducing test suites for testing retargeted C compilers for embedded systems
+Can fault-exposure-potential estimates improve the fault detection abilities of test suites?
+Abstraction in assertion-based test oracles
+An empirical evaluation of statistical testing designed from UML state diagrams: the flight guidance system case study
+Behaviour abstraction coverage as black-box adequacy criteria
+Behaviour abstraction adequacy criteria for API call protocol testing
+An approach for testing pointcut descriptors in aspectj
+Constraint-based automatic test data generation
+Experimental results from an automatic test case generator
+Dynamic data flow testing of object oriented systems
+Generating complex and faulty test data through model-based mutation analysis
+A controlled experiment assessing test case prioritization techniques via mutation faults
+On the use of mutation faults in empirical assessments of test case prioritization techniques
+An empirical study of the effect of time constraints on the cost-benefits of regression testing
+An evaluation of random testing
+Comparing test quality measures for assessing student-written tests
+Black-box testing using flowgraphs: an experimental assessment of effectiveness and automation potential
+Test case prioritization: A family of empirical studies
+Similarity-based test case prioritization using ordered sequences of program entities
+Assessing and generating test sets in terms of behavioural adequacy
+Mutation-driven generation of unit tests and oracles
+Does automated white-box test generation really help software testers?
+Achieving scalable mutation-based generation of whole test suites
+Automated oracle data selection support
+The risks of coverage-directed test case generation
+Comparing non-adequate test suites using coverage criteria
+Prioritizing tests for fault localization through ambiguity group reduction
+Code coverage for suite evaluation by developers
+Test inspected unit or inspect unit tested code?
+On-demand test suite reduction
+A unified test case prioritization approach
+Strong higher order mutation-based test data generation
+Analysing the effectiveness of rule-coverage as a reduction criterion for test suites of grammar-based software
+Why does my spreadsheet compute wrong values?
+On the empirical evaluation of similarity coefficients for spreadsheets fault localization
+State-based testing: Industrial evaluation of the cost-effectiveness of round-trip path and sneak-path strategies
+The impact of concurrent coverage metrics on testing effectiveness
+Are concurrency coverage metrics effective for testing: a comprehensive empirical investigation
+Applying interface-contract mutation in regression testing of component-based software
+Coverage is not strongly correlated with test suite effectiveness
+Augmented dynamic symbolic execution
+Automated test case generation for FBD programs implementing reactor protection system software
+Automated unit testing of a SCADA control software: an industrial case study based on action research
+Using machine learning techniques to detect metamorphic relations for programs without test oracles
+Search-based testing of relational schema integrity constraints across multiple database management systems
+On the round trip path testing strategy
+Investigating the effectiveness of object-oriented testing strategies using the mutation method
+State coverage: a structural test adequacy criterion for behavior checking
+Empirically evaluating the quality of automatically generated and manually written test suites
+Test Case Prioritization Based on Information Retrieval Concepts
+Design by contract to improve software vigilance
+Testing Security Policies: Going Beyond Functional Testing
+Generating test cases for XML-based Web component interactions using mutation analysis
+Minimization of randomized unit test cases
+A practical approach to testing GUI systems
+An approach to test data generation for killing multiple mutants
+Model-Based Mutation Testing of Synchronous and Asynchronous Real-Time Systems
+Mutation-based test-case prioritization in software evolution
+Dodona: automated oracle data set selection
+On random testing of image processing applications
+An empirical analysis and comparison of random testing techniques
+The effectiveness of test coverage criteria for relational database schema integrity constraints
+Leveraging existing tests in automated test generation for web applications
+A case study in model-based testing of specifications and implementations
+Effective test generation and adequacy assessment for JavaScript-based web applications
+Ask the mutants: Mutating faulty programs for fault localization
+Static analysis of model transformations for effective test generation
+"Assessing, comparing, and combining statechart-based testing and structural testing: An experiment"
+"Assessing, comparing, and combining state machine-based testing and structural testing: a series of experiments"
+Diagnosing new faults using mutants and prior faults (NIER track)
+The influence of size and coverage on test suite effectiveness
+An evaluation of required element testing strategies
+On required element testing
+Generating test data from SOFL specifications
+Automatic mutation test case generation via dynamic symbolic execution
+"Automatically performing weak mutation with the aid of symbolic execution, concolic testing and search-based testing"
+Mutation based test case generation via a path selection strategy
+"Using mutants to locate ""unknown"" faults"
+Sampling program inputs with mutation analysis: Going beyond combinatorial interaction testing
+Metallaxis-FL: mutation-based fault localization
+Subdomain-based test data generation
+"Techniques and tools for the automatic generation of optimal test data at code, model and interface level"
+Model-based tests for access control policies
+Efficient automated program repair through fault-recorded testing prioritization
+Combinatorial interaction regression testing: A study of test case generation and prioritization
+Configuration-aware regression testing: an empirical study of sampling and prioritization
+Configuration selection using code change impact analysis for regression testing
+Test case prioritization: An empirical study
+Prioritizing test cases for regression testing
+Model-based testing of obligations
+Evaluating test suites and adequacy criteria using simulation-based models of distributed systems
+Assessing oracle quality with checked coverage
+Checked coverage: an indicator for oracle quality
+Automated test data generation on the analyses of feature models: A metamorphic testing approach
+Artificial neural networks as multi-networks automated test oracle
+Adding criteria-based tests to test driven development
+Measuring the Diversity of a Test Set With Distance Entropy
+Balancing trade-offs in test-suite reduction
+Comparing and combining test-suite reduction and regression test selection
+An empirical evaluation of assertions as oracles
+On guiding the augmentation of an automated test suite via mutation analysis
+Should software testers use mutation analysis to augment a test set?
+Better testing through oracle selection (NIER track)
+"Automated oracle creation support, or: how I learned to stop worrying about fault propagation and love mutation testing"
+Oracle-centric test case prioritization
+Model Clone Detector Evaluation Using Mutation Analysis
+Evaluating automated unit testing in sulu
+Location pairs: a test coverage metric for shared-memory concurrent programs
+Full predicate coverage for testing SQL database queries
+Constraint based structural testing criteria
+Search-based data-flow test generation
+Planner based error recovery testing
+Correlating context-awareness and mutation analysis for pervasive computing systems
+Experience report: how is dynamic symbolic execution different from manual testing? a study on KLEE
+A specification-based adaptive test case generation strategy for open operating system standards
+Automatically generating test data from a Boolean specification
+Observable modified condition/decision coverage
+Testing and validating machine learning classifiers by metamorphic testing
+Prioritizing state-based aspect tests
+Testing aspect-oriented programs with finite state machines
+Test case purification for improving fault localization
+Test data regeneration: generating new test data from existing test data
+Effective test case selection for component customization and its application to Enterprise JavaBeans
+Efficient Observability-based Test Generation by Dynamic Symbolic Execution
+A search-based framework for automatic testing of MATLAB/Simulink models
+Assertions are strongly correlated with test suite effectiveness
+Bridging the gap between the total and additional test-case prioritization strategies
+Taming coincidental correctness: Coverage refinement with context patterns to improve fault localization
+Time-aware test-case prioritization using integer linear programming
+Test generation via dynamic symbolic execution for mutation testing
+An empirical study of junit test-suite reduction
+Search-based inference of polynomial metamorphic relations
+JDAMA: Java database application mutation analyser
+Procedures for reducing the size of coverage-based test sets
+Combining multiple coverage criteria in search-based unit test generation
+Mutation-based test generation from security protocols in HLPSL
+Integrating techniques and tools for testing automation
+Testing-based process for component substitutability
+Unit and integration testing strategies for C programs using mutation
+Simulation-based test adequacy criteria for distributed systems
+Compatibility and regression testing of COTS-component-based software
+"A framework for practical, automated black-box testing of component-based software"
+Testing-based assessment process for upgrading component systems
+Whitening SOA testing via event exposure
+"Automated, contract-based user testing of commercial-off-the-shelf components"
+Bringing white-box testing to service oriented architectures through a service oriented approach
+Automatic Recovery from Runtime Failures
+How significant is the effect of fault interactions on coverage-based fault localizations?
+Cross-Checking Oracles from Intrinsic Software Redundancy
+Does Automated Unit Test Generation Really Help Software Testers? A Controlled Empirical Study
+Automated unit test generation during software development: A controlled experiment and think-aloud observations
+An approach and tool for measurement of state variable based data-flow test coverage for aspect-oriented programs

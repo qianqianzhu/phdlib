@@ -1,0 +1,134 @@
+AbouTrab et al.\cite{aboutrab2013testing},test strategy evaluation
+Ali et al.\cite{ali2007state},test strategy evaluation
+Andrews et al.\cite{andrews2003general} , test oracle
+Andrews et al.\cite{andrews2006using} , test strategy evaluation 
+Androutsopoulos et al.\cite{androutsopoulos2014analysis},test strategy evaluation
+Antoniol et al.\cite{antoniol2002case},test strategy evaluation
+Arcaini et al.\cite{arcaini2015using},model review
+Arcuri and Briand\cite{arcuri2011adaptive},test strategy evaluation
+Asoudeh and Labiche\cite{asoudeh2014multi},test data generation
+Au{\ss}erlechner et al.\cite{ausserlechner2013right},fault localisation
+Baker and Habli\cite{baker2013empirical},test strategy evaluation
+Bandyopadhyay and Ghosh\cite{bandyopadhyay2009test},test data generation
+Bartolini et al.\cite{bartolini2011bringing},test-suite reduction
+Belli et al.\cite{belli2011mutation},"test data generation, test strategy evaluation"
+Bertolino et al.\cite{bertolino2012automatic},"test data generation, test strategy evaluation"
+Briand et al.\cite{briand2004assessing},test strategy evaluation
+Briand et al.\cite{briand2004using} , test strategy evaluation 
+Briand et al.\cite{briand2005improving},test strategy evaluation
+Cai et al.and Lyu\cite{cai2005effect},test strategy evaluation
+Chae et al.\cite{chae2011automated},"test data generation, test-suite reduction"
+Cheon\cite{cheon2007abstraction}, test oracle
+Chevalley and Th{\'e}venod-Fosse\cite{chevalley2001empirical},test data generation
+Czemerinski et al.\cite{czemerinski2013behaviour}*,test strategy evaluation
+Czemerinski et al.\cite{czemerinski2015behaviour} , test strategy evaluation 
+Delamare et al.\cite{delamare2011approach}, test oracle
+Denaro et al.\cite{denaro2015dynamic} , test data generation 
+Do and Rothermel\cite{do2005controlled},test case prioritisation
+Do and Rothermel\cite{do2006use}*,test case prioritisation
+Do et al.\cite{do2008empirical},test case prioritisation
+Duran and Ntafos\cite{duran1984evaluation},test strategy evaluation
+Edwards and Shams\cite{edwards2014comparing},test strategy evaluation
+Edwards\cite{edwards2000black},test strategy evaluation
+Edwards\cite{edwards2001framework},"test data generation, test oracle"
+Fang et al.\cite{fang2014similarity} , test case prioritisation 
+Flores and Polo\cite{flores2008testing}*,test strategy evaluation
+Flores and Polo\cite{flores2012testing},test strategy evaluation
+Gay et al.\cite{gay2015risks} ," test data generation, test-suite reduction"
+Gligoric et al.\cite{gligoric2013comparing} , test strategy evaluation 
+Gonzalez-Sanchez et al.\cite{gonzalez2011prioritizing},fault localisation
+Gopinath et al.\cite{gopinath2014code} , test strategy evaluation 
+Gupta and Jalote\cite{gupta2007test},"fault localisation, program repairing"
+Hao et al.\cite{hao2014unified} , test case prioritisation 
+Hennessy and Power\cite{hennessy2008analysing} , test-suite reduction 
+Hofer and Wotawa\cite{hofer2014does},fault localisation
+Hofer et al.\cite{hofer2015empirical},fault localisation
+Holt et al.\cite{holt2012state},test strategy evaluation
+Hong et al.\cite{hong2013impact} *, test strategy evaluation 
+Hong et al.\cite{hong2015concurrency},test strategy evaluation
+Inozemtseva et al.\cite{inozemtseva2014coverage} , test strategy evaluation 
+Jee et al.\cite{jee2014automated},test data generation
+Jolly et al.\cite{jolly2012automated} , test strategy evaluation 
+Kanewala and Bieman\cite{kanewala2013using},test oracle
+Kapfhammer et al.\cite{kapfhammer2013search},test data generation
+Khalil and Labiche\cite{khalil2010round},test strategy evaluation
+Kim et al.\cite{kim2001investigating} , test strategy evaluation 
+Koster and Kao\cite{koster2007state},test strategy evaluation
+Kracht et al.\cite{kracht2014empirically} , test data generation 
+Le Traon et al.\cite{le2006design},test strategy evaluation
+Le Traon et al.\cite{le2007testing},"test strategy evaluation, test-suite selection"
+Lei and Andrews\cite{lei2005minimization},test case minimisation
+Li et al.\cite{li2007practical},test strategy evaluation
+Loyala et al.\cite{loyola2014dodona} ,test oracle
+Mariani et al.\cite{mariani2007compatibility},"test data generation, test case prioritisation"
+Mayer and Guderlei\cite{mayer2006random},"test data generation, test strategy evaluation"
+Mayer and Schneckenburger\cite{mayer2006empirical},test strategy evaluation
+Mcminn et al.\cite{mcminn2015effectiveness},"test strategy evaluation, test data generation"
+Milani et al.\cite{milani2014leveraging} , test data generation 
+Miller and Strooper\cite{miller2012case},test strategy evaluation
+Mottu et al.\cite{mottu2012static},test data generation
+Mouchawrab et al.\cite{mouchawrab2007assessing} *, test data generation
+Mouchawrab et al.\cite{mouchawrab2011assessing} , test data generation
+Namin and Andrews\cite{namin2009influence} , test strategy evaluation 
+Ntafos\cite{ntafos1984evaluation}*,test strategy evaluation
+Ntafos\cite{ntafos1984required},test strategy evaluation
+Offutt and Liu\cite{offutt1999generating},test data generation
+Papadakis et al.\cite{papadakis2014sampling} , test-suite selection 
+Pinte et al.\cite{pinte2008techniques},test data generation
+Polo et al.\cite{polo2007integrating},test data generation
+Pretschner et al.\cite{pretschner2008model},"test data generation, test strategy evaluation"
+Qu et al.\cite{qu2007combinatorial} ," test data generation, test case prioritisation "
+Qu et al.\cite{qu2012configuration} , test-suite selection 
+Rubab et al.\cite{rubab2014model},test data generation
+Rutherford et al.\cite{rutherford2006simulation}*,test strategy evaluation
+Rutherford et al.\cite{rutherford2008evaluating},test strategy evaluation
+Schuler and Zeller\cite{schuler2011assessing}*,test strategy evaluation
+Schuler and Zeller\cite{schuler2013checked},test strategy evaluation
+Segura et al.\cite{segura2010automated},test data generation
+Shahamiri et al.\cite{shahamiri2012artificial},test oracle
+Shi et al. \cite{shi2015measuring} , test strategy evaluation 
+Shi et al.\cite{shi2015comparing},test-suite reduction
+Shrestha and Rutherford\cite{shrestha2011empirical},test oracle
+Staats et al.\cite{staats2011better} ,test oracle
+Staats et al.\cite{staats2012oracle},test case prioritisation
+Stephan and Cordy\cite{stephan2014model},model clone detection
+Tan and Edwards\cite{tan2008evaluating},"test data generation, test strategy evaluation"
+Tasiran et al.\cite{tasiran2012location},test strategy evaluation
+Tuya et al.\cite{tuya2010full} , test strategy evaluation 
+Vergilio et al.\cite{vergilio2006constraint},test strategy evaluation
+Wang et al.\cite{wang2010correlating},test strategy evaluation
+Wang et al.\cite{wang2015experience} , test data generation 
+Watanabe and Sakamura\cite{watanabe1996specification},test data generation
+Weyuker et al.\cite{weyuker1994automatically},test data generation
+Whalen et al.\cite{whalen2013observable} , test strategy evaluation 
+Xie et al.\cite{xie2011testing},test strategy evaluation
+Xu and Ding\cite{xu2010prioritizing},test case prioritisation
+Xu et al.\cite{xu2012testing},test strategy evaluation
+Xuan and Monperrus\cite{xuan2014test} , fault localisation 
+Ye and Jacobsen\cite{ye2013whitening},"test data generation, test strategy evaluation"
+Yoo and Harman\cite{yoo2012test},test data generation
+Yoon and Choi\cite{yoon2004effective},test-suite selection
+You et al.\cite{you2015efficient} , test data generation 
+Zhang and Mesbah\cite{zhang2015assertions} , test strategy evaluation 
+Zhang et al. \cite{zhang2013bridging} , test case prioritisation 
+Zhang et al.\cite{wang2009taming} , fault localisation 
+Zhang et al.\cite{zhang2009time},test case prioritisation
+Zhang et al.\cite{zhang2011empirical} , test-suite reduction 
+Zhang et al.\cite{zhang2014search},test oracle
+Zhou and Frankl\cite{zhou2011jdama} ," test data generation, test strategy evaluation "
+Carzaniga et al.\cite{carzaniga2013automatic},program repairing
+Xue and Namin\cite{xue2013significant},fault localisation
+Carzaniga et al.\cite{carzaniga2014cross},test oracle
+Fraser et al.\cite{fraser2015does}*,test data generation
+Rojas et al.\cite{rojas2015automated},test data generation
+Wedyan et al.\cite{wedyan2015approach},test strategy evaluation
+Murphy et al.\cite{murphy2009automatic},test oracle
+Pastore et al.\cite{pastore2013crowdoracles},test oracle
+Taneja and Xie\cite{taneja2008diffgen},test data generation
+El-Fakih et al.\cite{el2014studying},test strategy evaluation
+Patrick et al.\cite{patrick2013using},test data generation
+Just and Schweiggert\cite{just2009evaluating},test strategy evaluation
+Knauth et al.\cite{knauth2009assertion},test strategy evaluation
+Bradbury et al.\cite{bradbury2007comparative},test strategy evaluation
+Poulding and Clark\cite{poulding2010efficient},test strategy evaluation
+Gallardo et al.\cite{gallardo2006assessment},fault tolerance

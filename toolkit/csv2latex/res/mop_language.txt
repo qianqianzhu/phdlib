@@ -1,0 +1,225 @@
+  program & 55\\
+  \hline
+  arithmetic op & 51\\
+  \hline
+  conditional op & 47\\
+  \hline
+  relational op & 47\\
+  \hline
+  bitwise op & 36\\
+  \hline
+  assignment op & 33\\
+  \hline
+  shift op & 33\\
+  \hline
+  oo-specific & 23\\
+  \hline
+  absolute value & 19\\
+  \hline
+  constant & 18\\
+  \hline
+  java-specific & 17\\
+  \hline
+  variable & 15\\
+  \hline
+  method call & 11\\
+  \hline
+  statement deletion & 11\\
+  \hline
+  return statement & 10\\
+  \hline
+  conditional exp & 9\\
+  \hline
+  control-flow disruption & 6\\
+  \hline
+  concurrent mutation & 4\\
+  \hline
+  interface mutation & 4\\
+  \hline
+  specification & 2\\
+  \hline
+  statement swap & 2\\
+  \hline
+  switch statement & 2\\
+  \hline
+  exception handler & 1\\
+  \hline
+  java & 1\\
+  \hline
+  parentheses & 1\\
+  \hline
+
+   & 44\\
+  \hline
+  program & 12\\
+  \hline
+  arithmetic op & 10\\
+  \hline
+  relational op & 8\\
+  \hline
+  conditional op & 7\\
+  \hline
+  constant & 5\\
+  \hline
+  assignment op & 4\\
+  \hline
+  bitwise op & 4\\
+  \hline
+  statement deletion & 4\\
+  \hline
+  variable & 4\\
+  \hline
+  absolute value & 3\\
+  \hline
+  brace & 3\\
+  \hline
+  conditional exp & 3\\
+  \hline
+  goto label & 3\\
+  \hline
+  loop trap & 3\\
+  \hline
+  return statement & 3\\
+  \hline
+  switch statement & 3\\
+  \hline
+  type & 3\\
+  \hline
+  while statement & 3\\
+  \hline
+  bomb statement & 2\\
+  \hline
+  control-flow disruption & 2\\
+  \hline
+  do-while statement & 2\\
+  \hline
+  interface mutation & 2\\
+  \hline
+  parentheses & 2\\
+  \hline
+  shift op & 2\\
+  \hline
+  specification & 2\\
+  \hline
+  statement swap & 2\\
+  \hline
+  c & 1\\
+  \hline
+
+   & 53\\
+  \hline
+  arithmetic op & 4\\
+  \hline
+  conditional op & 4\\
+  \hline
+  program & 4\\
+  \hline
+  relational op & 4\\
+  \hline
+  absolute value & 2\\
+  \hline
+  assignment op & 2\\
+  \hline
+  bitwise op & 2\\
+  \hline
+  constant & 2\\
+  \hline
+  control-flow disruption & 2\\
+  \hline
+  method call & 2\\
+  \hline
+  shift op & 2\\
+  \hline
+  statement swap & 2\\
+  \hline
+  variable & 2\\
+  \hline
+  c++ & 1\\
+  \hline
+  exception handler & 1\\
+  \hline
+  java-specific & 1\\
+  \hline
+  specification & 1\\
+  \hline
+
+   & 55\\
+  \hline
+  program & 3\\
+  \hline
+  conditional op & 2\\
+  \hline
+  statement deletion & 2\\
+  \hline
+  absolute value & 1\\
+  \hline
+  arithmetic op & 1\\
+  \hline
+  c# & 1\\
+  \hline
+  conditional exp & 1\\
+  \hline
+  relational op & 1\\
+  \hline
+
+   & 56\\
+  \hline
+  arithmetic op & 2\\
+  \hline
+  bomb statement & 2\\
+  \hline
+  conditional op & 2\\
+  \hline
+  constant & 2\\
+  \hline
+  do statement & 2\\
+  \hline
+  goto label & 2\\
+  \hline
+  program & 2\\
+  \hline
+  relational op & 2\\
+  \hline
+  return statement & 2\\
+  \hline
+  statement deletion & 2\\
+  \hline
+  variable & 2\\
+  \hline
+  absolute value & 1\\
+  \hline
+  fortran & 1\\
+  \hline
+
+   & 53\\
+  \hline
+  program & 5\\
+  \hline
+  sql-specific & 5\\
+  \hline
+  absolute value & 3\\
+  \hline
+  arithmetic op & 3\\
+  \hline
+  conditional op & 3\\
+  \hline
+  constant & 3\\
+  \hline
+  relational op & 3\\
+  \hline
+  variable & 3\\
+  \hline
+  sql & 1\\
+  \hline
+
+  javascript & 1\\
+  \hline
+  js-specific & 1\\
+  \hline
+  method call & 1\\
+  \hline
+  program & 1\\
+  \hline
+  variable & 1\\
+  \hline
+

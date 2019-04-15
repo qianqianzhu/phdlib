@@ -1,0 +1,25 @@
+  test strategy evaluation & 63\\
+  \hline
+  test data generation & 38\\
+  \hline
+  test oracle & 13\\
+  \hline
+  test case prioritisation & 11\\
+  \hline
+  fault localisation & 8\\
+  \hline
+  test-suite reduction & 6\\
+  \hline
+  test-suite selection & 4\\
+  \hline
+  program repairing & 2\\
+  \hline
+  fault tolerance & 1\\
+  \hline
+  model clone detection & 1\\
+  \hline
+  model review & 1\\
+  \hline
+  test case minimisation & 1\\
+  \hline
+

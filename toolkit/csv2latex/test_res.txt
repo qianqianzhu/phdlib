@@ -1,0 +1,2 @@
+[("\"A'Reilly\" version",1),("\"O'Reilly\" version",1),("Shirt",2),("haskell caps",1),("o'reilly socks",1),("shirt with \"haskell\" text",1)]
+[("10",2),("15",1),("20",2)]

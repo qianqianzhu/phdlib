@@ -1,0 +1,38 @@
+Language  & Tool  & Equivalent Mutants & Cost Reduction\\
+\hline
+Java  & MuJava/$\mu$-java/Muclipse  & n/a & MSG, bytecode translation (BCEL)\\
+\hline
+ & PIT/PiTest  & n/a & bytecode translation (ASM), coverage-based test selection\\
+\hline
+ & JAVALANCHE  & ranking mutations by impact & MSG, bytecode translation (ASM), coverage-based test selection, parallel execution\\
+\hline
+ & MAJOR  & n/a & Compiler-integrated, coverage-based test selection\\
+\hline
+ & Jumble  & n/a & bytecode translation (BCEL), conventional test selection\\
+\hline
+ & Sofya  & n/a & bytecode translation (BCEL)\\
+\hline
+ & Jester  & n/a & n/a\\
+\hline
+C  & Proteum  & n/a & mutant sample\\
+\hline
+ & MiLu  & n/a & Higher-order mutants, test harness\\
+\hline
+ & SMT-C  & n/a & Interpreter-based, weak mutation\\
+\hline
+Fortran  & Mothra & n/a & Interpreter-based\\
+\hline
+SQL  & SQLMutation/JDAMA  & Constraint binding & n/a\\
+\hline
+SQL  & SchemaAnalyst  & n/a & n/a\\
+\hline
+C\#  & GenMutants  & n/a & n/a\\
+\hline
+ & PexMutator & n/a & Compiler-based\\
+\hline
+JavaScript  & MUTANDIS  & reduce likelihood & selection strategy\\
+\hline
+AspectJ  & AjMutator  & static analysis & Compiler-based\\
+\hline
+UML specification  & MoMuT::UML  & n/a & Compiler-based\\
+\hline

@@ -1,0 +1,716 @@
+  assessing & 2\\
+  \hline
+  comparing & 2\\
+  \hline
+  a case study in model-based testing of specifications and implementations & 1\\
+  \hline
+  a case study using the round-trip strategy for state-based class testing & 1\\
+  \hline
+  a controlled experiment assessing test case prioritization techniques via mutation faults & 1\\
+  \hline
+  a framework for practical & 1\\
+  \hline
+  a practical approach to testing gui systems & 1\\
+  \hline
+  a search-based framework for automatic testing of matlab/simulink models & 1\\
+  \hline
+  a specification-based adaptive test case generation strategy for open operating system standards & 1\\
+  \hline
+  a state-based approach to integration testing based on uml models & 1\\
+  \hline
+  a unified test case prioritization approach & 1\\
+  \hline
+  abstraction in assertion-based test oracles & 1\\
+  \hline
+  achieving scalable mutation-based generation of whole test suites & 1\\
+  \hline
+  adaptive random testing: an illusion of effectiveness? & 1\\
+  \hline
+  adding criteria-based tests to test driven development & 1\\
+  \hline
+  an analysis of the relationship between conditional entropy and failed error propagation in software testing & 1\\
+  \hline
+  an approach and tool for measurement of state variable based data-flow test coverage for aspect-oriented programs & 1\\
+  \hline
+  an approach for testing pointcut descriptors in aspectj & 1\\
+  \hline
+  an approach to test data generation for killing multiple mutants & 1\\
+  \hline
+  an automated approach to reducing test suites for testing retargeted c compilers for embedded systems & 1\\
+  \hline
+  an empirical analysis and comparison of random testing techniques & 1\\
+  \hline
+  an empirical evaluation of assertions as oracles & 1\\
+  \hline
+  an empirical evaluation of mutation testing for improving the test quality of safety-critical software & 1\\
+  \hline
+  an empirical evaluation of statistical testing designed from uml state diagrams: the flight guidance system case study & 1\\
+  \hline
+  an empirical study of junit test-suite reduction & 1\\
+  \hline
+  an empirical study of the effect of time constraints on the cost-benefits of regression testing & 1\\
+  \hline
+  an evaluation of random testing & 1\\
+  \hline
+  an evaluation of required element testing strategies & 1\\
+  \hline
+  analysing the effectiveness of rule-coverage as a reduction criterion for test suites of grammar-based software & 1\\
+  \hline
+  and combining state machine-based testing and structural testing: a series of experiments & 1\\
+  \hline
+  and combining statechart-based testing and structural testing: an experiment & 1\\
+  \hline
+  applying interface-contract mutation in regression testing of component-based software & 1\\
+  \hline
+  are concurrency coverage metrics effective for testing: a comprehensive empirical investigation & 1\\
+  \hline
+  artificial neural networks as multi-networks automated test oracle & 1\\
+  \hline
+  ask the mutants: mutating faulty programs for fault localization & 1\\
+  \hline
+  assertion-driven development: assessing the quality of contracts using meta-mutations & 1\\
+  \hline
+  assertions are strongly correlated with test suite effectiveness & 1\\
+  \hline
+  assessing and generating test sets in terms of behavioural adequacy & 1\\
+  \hline
+  assessing and improving state-based class testing: a series of experiments & 1\\
+  \hline
+  assessing oracle quality with checked coverage & 1\\
+  \hline
+  assessment of data diversity methods for software fault tolerance based on mutation analysis & 1\\
+  \hline
+  augmented dynamic symbolic execution & 1\\
+  \hline
+  automated & 1\\
+  \hline
+  automated black-box testing of component-based software & 1\\
+  \hline
+  automated oracle creation support & 1\\
+  \hline
+  automated oracle data selection support & 1\\
+  \hline
+  automated test case generation for fbd programs implementing reactor protection system software & 1\\
+  \hline
+  automated test data generation on the analyses of feature models: a metamorphic testing approach & 1\\
+  \hline
+  automated unit test generation during software development: a controlled experiment and think-aloud observations & 1\\
+  \hline
+  automated unit testing of a scada control software: an industrial case study based on action research & 1\\
+  \hline
+  automatic mutation test case generation via dynamic symbolic execution & 1\\
+  \hline
+  automatic recovery from runtime failures & 1\\
+  \hline
+  automatic system testing of programs without test oracles & 1\\
+  \hline
+  automatic xacml requests generation for policy testing & 1\\
+  \hline
+  automatically generating test data from a boolean specification & 1\\
+  \hline
+  automatically performing weak mutation with the aid of symbolic execution & 1\\
+  \hline
+  balancing trade-offs in test-suite reduction & 1\\
+  \hline
+  behaviour abstraction adequacy criteria for api call protocol testing & 1\\
+  \hline
+  behaviour abstraction coverage as black-box adequacy criteria & 1\\
+  \hline
+  better testing through oracle selection (nier track) & 1\\
+  \hline
+  black-box testing using flowgraphs: an experimental assessment of effectiveness and automation potential & 1\\
+  \hline
+  bridging the gap between the total and additional test-case prioritization strategies & 1\\
+  \hline
+  bringing white-box testing to service oriented architectures through a service oriented approach & 1\\
+  \hline
+  building trust into oo components using a genetic analogy & 1\\
+  \hline
+  can fault-exposure-potential estimates improve the fault detection abilities of test suites? & 1\\
+  \hline
+  checked coverage: an indicator for oracle quality & 1\\
+  \hline
+  code coverage for suite evaluation by developers & 1\\
+  \hline
+  combinatorial interaction regression testing: a study of test case generation and prioritization & 1\\
+  \hline
+  combining multiple coverage criteria in search-based unit test generation & 1\\
+  \hline
+  comparative assessment of testing and model checking using program mutation & 1\\
+  \hline
+  comparing and combining test-suite reduction and regression test selection & 1\\
+  \hline
+  comparing non-adequate test suites using coverage criteria & 1\\
+  \hline
+  comparing test quality measures for assessing student-written tests & 1\\
+  \hline
+  compatibility and regression testing of cots-component-based software & 1\\
+  \hline
+  concolic testing and search-based testing & 1\\
+  \hline
+  configuration selection using code change impact analysis for regression testing & 1\\
+  \hline
+  configuration-aware regression testing: an empirical study of sampling and prioritization & 1\\
+  \hline
+  constraint based structural testing criteria & 1\\
+  \hline
+  constraint-based automatic test data generation & 1\\
+  \hline
+  contract-based user testing of commercial-off-the-shelf components & 1\\
+  \hline
+  correlating context-awareness and mutation analysis for pervasive computing systems & 1\\
+  \hline
+  coverage is not strongly correlated with test suite effectiveness & 1\\
+  \hline
+  cross-checking oracles from intrinsic software redundancy & 1\\
+  \hline
+  crowdoracles: can the crowd solve the oracle problem? & 1\\
+  \hline
+  design by contract to improve software vigilance & 1\\
+  \hline
+  diagnosing new faults using mutants and prior faults (nier track) & 1\\
+  \hline
+  diffgen: automated regression unit-test generation & 1\\
+  \hline
+  dodona: automated oracle data set selection & 1\\
+  \hline
+  does automated unit test generation really help software testers? a controlled empirical study & 1\\
+  \hline
+  does automated white-box test generation really help software testers? & 1\\
+  \hline
+  dynamic data flow testing of object oriented systems & 1\\
+  \hline
+  effective test case selection for component customization and its application to enterprise javabeans & 1\\
+  \hline
+  effective test generation and adequacy assessment for javascript-based web applications & 1\\
+  \hline
+  efficient automated program repair through fault-recorded testing prioritization & 1\\
+  \hline
+  efficient mutation killers in action & 1\\
+  \hline
+  efficient observability-based test generation by dynamic symbolic execution & 1\\
+  \hline
+  efficient software verification: statistical testing using automated search & 1\\
+  \hline
+  empirically evaluating the quality of automatically generated and manually written test suites & 1\\
+  \hline
+  evaluating automated unit testing in sulu & 1\\
+  \hline
+  evaluating test suites and adequacy criteria using simulation-based models of distributed systems & 1\\
+  \hline
+  evaluating testing strategies for imaging software by means of mutation analysis & 1\\
+  \hline
+  experience report: how is dynamic symbolic execution different from manual testing? a study on klee & 1\\
+  \hline
+  experimental results from an automatic test case generator & 1\\
+  \hline
+  exploiting model morphology for event-based testing & 1\\
+  \hline
+  from genetic to bacteriological algorithms for mutation-based testing & 1\\
+  \hline
+  full predicate coverage for testing sql database queries & 1\\
+  \hline
+  general test result checking with log file analysis & 1\\
+  \hline
+  generating complex and faulty test data through model-based mutation analysis & 1\\
+  \hline
+  generating parameterized unit tests & 1\\
+  \hline
+  generating test cases for xml-based web component interactions using mutation analysis & 1\\
+  \hline
+  generating test data from sofl specifications & 1\\
+  \hline
+  generating test data to distinguish conjunctive queries with equalities & 1\\
+  \hline
+  genes and bacteria for automatic test cases optimization in the. net environment & 1\\
+  \hline
+  how significant is the effect of fault interactions on coverage-based fault localizations? & 1\\
+  \hline
+  improving statechart testing criteria using data flow information & 1\\
+  \hline
+  integrating techniques and tools for testing automation & 1\\
+  \hline
+  investigating the effectiveness of object-oriented testing strategies using the mutation method & 1\\
+  \hline
+  jdama: java database application mutation analyser & 1\\
+  \hline
+  jseft: automated javascript unit test generation & 1\\
+  \hline
+  killing strategies for model-based mutation testing & 1\\
+  \hline
+  leveraging existing tests in automated test generation for web applications & 1\\
+  \hline
+  location pairs: a test coverage metric for shared-memory concurrent programs & 1\\
+  \hline
+  measuring the diversity of a test set with distance entropy & 1\\
+  \hline
+  metallaxis-fl: mutation-based fault localization & 1\\
+  \hline
+  minimization of randomized unit test cases & 1\\
+  \hline
+  model and interface level & 1\\
+  \hline
+  model clone detector evaluation using mutation analysis & 1\\
+  \hline
+  model-based mutation testing of synchronous and asynchronous real-time systems & 1\\
+  \hline
+  model-based testing of obligations & 1\\
+  \hline
+  model-based tests for access control policies & 1\\
+  \hline
+  multi-objective construction of an entire adequate test suite for an efsm & 1\\
+  \hline
+  mutation based test case generation via a path selection strategy & 1\\
+  \hline
+  mutation testing of" go-back" functions based on pushdown automata & 1\\
+  \hline
+  mutation-based test generation from security protocols in hlpsl & 1\\
+  \hline
+  mutation-based test-case prioritization in software evolution & 1\\
+  \hline
+  mutation-driven generation of unit tests and oracles & 1\\
+  \hline
+  observable modified condition/decision coverage & 1\\
+  \hline
+  on guiding the augmentation of an automated test suite via mutation analysis & 1\\
+  \hline
+  on random testing of image processing applications & 1\\
+  \hline
+  on required element testing & 1\\
+  \hline
+  on studying the effectiveness of extended finite state machine based test selection criteria & 1\\
+  \hline
+  on the empirical evaluation of similarity coefficients for spreadsheets fault localization & 1\\
+  \hline
+  on the round trip path testing strategy & 1\\
+  \hline
+  on the use of mutation faults in empirical assessments of test case prioritization techniques & 1\\
+  \hline
+  on-demand test suite reduction & 1\\
+  \hline
+  or: how i learned to stop worrying about fault propagation and love mutation testing & 1\\
+  \hline
+  oracle-centric test case prioritization & 1\\
+  \hline
+  planner based error recovery testing & 1\\
+  \hline
+  prioritizing state-based aspect tests & 1\\
+  \hline
+  prioritizing test cases for regression testing & 1\\
+  \hline
+  prioritizing tests for fault localization through ambiguity group reduction & 1\\
+  \hline
+  procedures for reducing the size of coverage-based test sets & 1\\
+  \hline
+  sampling program inputs with mutation analysis: going beyond combinatorial interaction testing & 1\\
+  \hline
+  search-based data-flow test generation & 1\\
+  \hline
+  search-based inference of polynomial metamorphic relations & 1\\
+  \hline
+  search-based testing of relational schema integrity constraints across multiple database management systems & 1\\
+  \hline
+  should software testers use mutation analysis to augment a test set? & 1\\
+  \hline
+  similarity-based test case prioritization using ordered sequences of program entities & 1\\
+  \hline
+  simulation-based test adequacy criteria for distributed systems & 1\\
+  \hline
+  sound and quasi-complete detection of infeasible test requirements & 1\\
+  \hline
+  state coverage: a structural test adequacy criterion for behavior checking & 1\\
+  \hline
+  state-based testing: industrial evaluation of the cost-effectiveness of round-trip path and sneak-path strategies & 1\\
+  \hline
+  static analysis of model transformations for effective test generation & 1\\
+  \hline
+  strong higher order mutation-based test data generation & 1\\
+  \hline
+  subdomain-based test data generation & 1\\
+  \hline
+  taming coincidental correctness: coverage refinement with context patterns to improve fault localization & 1\\
+  \hline
+  techniques and tools for the automatic generation of optimal test data at code & 1\\
+  \hline
+  test case generation from mutants using model checking techniques & 1\\
+  \hline
+  test case prioritization based on information retrieval concepts & 1\\
+  \hline
+  test case prioritization: a family of empirical studies & 1\\
+  \hline
+  test case prioritization: an empirical study & 1\\
+  \hline
+  test case purification for improving fault localization & 1\\
+  \hline
+  test data regeneration: generating new test data from existing test data & 1\\
+  \hline
+  test generation via dynamic symbolic execution for mutation testing & 1\\
+  \hline
+  test input generation using uml sequence and state machines models & 1\\
+  \hline
+  test inspected unit or inspect unit tested code? & 1\\
+  \hline
+  testing and validating machine learning classifiers by metamorphic testing & 1\\
+  \hline
+  testing aspect-oriented programs with finite state machines & 1\\
+  \hline
+  testing real-time embedded systems using timed automata based approaches & 1\\
+  \hline
+  testing security policies: going beyond functional testing & 1\\
+  \hline
+  testing-based assessment process for upgrading component systems & 1\\
+  \hline
+  testing-based process for component substitutability & 1\\
+  \hline
+  the effectiveness of test coverage criteria for relational database schema integrity constraints & 1\\
+  \hline
+  the effects of time constraints on test case prioritization: a series of controlled experiments & 1\\
+  \hline
+  the impact of concurrent coverage metrics on testing effectiveness & 1\\
+  \hline
+  the influence of size and coverage on test suite effectiveness & 1\\
+  \hline
+  the right choice matters! smt solving substantially improves model-based debugging of spreadsheets & 1\\
+  \hline
+  the risks of coverage-directed test case generation & 1\\
+  \hline
+  time-aware test-case prioritization using integer linear programming & 1\\
+  \hline
+  unit and integration testing strategies for c programs using mutation & 1\\
+  \hline
+  using machine learning techniques to detect metamorphic relations for programs without test oracles & 1\\
+  \hline
+  using mutants to locate "unknown" faults & 1\\
+  \hline
+  using mutation analysis for assessing and comparing testing coverage criteria & 1\\
+  \hline
+  using mutation analysis to evolve subdomains for random testing & 1\\
+  \hline
+  using mutation to assess fault detection capability of model review & 1\\
+  \hline
+  using simulation to empirically investigate test coverage criteria based on statechart & 1\\
+  \hline
+  whitening soa testing via event exposure & 1\\
+  \hline
+  why does my spreadsheet compute wrong values? & 1\\
+  \hline
+
+  a & 134\\
+  \hline
+  g & 57\\
+  \hline
+
+  test data generation & 75\\
+  \hline
+  test strategy evaluation & 70\\
+  \hline
+  test oracle & 18\\
+  \hline
+  test case prioritisation & 17\\
+  \hline
+  fault localisation & 12\\
+  \hline
+  test-suite reduction & 11\\
+  \hline
+  test-suite selection & 4\\
+  \hline
+  program repairing & 3\\
+  \hline
+  development scheme evaluation & 1\\
+  \hline
+  fault tolerance & 1\\
+  \hline
+  model clone detection & 1\\
+  \hline
+  model review & 1\\
+  \hline
+  test case minimisation & 1\\
+  \hline
+  test-case minimisation & 1\\
+  \hline
+
+  n/a & 84\\
+  \hline
+  unit & 77\\
+  \hline
+  int. & 15\\
+  \hline
+  other & 10\\
+  \hline
+  sys. & 10\\
+  \hline
+  n/a (code level) & 1\\
+  \hline
+
+  struc. & 57\\
+  \hline
+  spec. & 52\\
+  \hline
+  struc. (e) & 52\\
+  \hline
+  others & 21\\
+  \hline
+  spec. (e) & 13\\
+  \hline
+  hybrid & 7\\
+  \hline
+  sim. & 3\\
+  \hline
+
+  y & 103\\
+  \hline
+  n & 91\\
+  \hline
+
+  exi. & 116\\
+  \hline
+  n/a & 44\\
+  \hline
+  self. & 15\\
+  \hline
+  hand. & 12\\
+  \hline
+  part. & 7\\
+  \hline
+
+  exi. & 96\\
+  \hline
+   & 88\\
+  \hline
+  part. & 7\\
+  \hline
+  self. & 1\\
+  \hline
+
+   & 100\\
+  \hline
+  n/a & 44\\
+  \hline
+  exi. & 21\\
+  \hline
+  self. & 14\\
+  \hline
+  hand. & 12\\
+  \hline
+
+   & 56\\
+  \hline
+  mujava & 30\\
+  \hline
+  proteum & 12\\
+  \hline
+  javalanche & 9\\
+  \hline
+  major & 9\\
+  \hline
+  \cite{andrews2003general} & 8\\
+  \hline
+  self-written & 8\\
+  \hline
+  muclipse & 7\\
+  \hline
+  pit & 7\\
+  \hline
+  $\mu$-java & 4\\
+  \hline
+  \cite{rajan2008requirements} & 4\\
+  \hline
+  evosuite & 4\\
+  \hline
+  mothra & 4\\
+  \hline
+  manual & 3\\
+  \hline
+  proteum/im & 3\\
+  \hline
+  $\mu$slayer & 2\\
+  \hline
+  $\mu$test & 2\\
+  \hline
+  ajmutator & 2\\
+  \hline
+  jfuzz & 2\\
+  \hline
+  jumble & 2\\
+  \hline
+  milu & 2\\
+  \hline
+  mutandis & 2\\
+  \hline
+  sqlmutation & 2\\
+  \hline
+  testooj & 2\\
+  \hline
+  \cite{budd1979mutation} & 1\\
+  \hline
+  \cite{martin2007fault} & 1\\
+  \hline
+  createmutants.py & 1\\
+  \hline
+  exman & 1\\
+  \hline
+  genmutants & 1\\
+  \hline
+  hand-seeded & 1\\
+  \hline
+  jdama (based on sqlmutation) & 1\\
+  \hline
+  jester & 1\\
+  \hline
+  momut::uml & 1\\
+  \hline
+  mutandis \cite{mirshokraie2013efficient} & 1\\
+  \hline
+  mutant power & 1\\
+  \hline
+  mutate.py & 1\\
+  \hline
+  pexmutator & 1\\
+  \hline
+  proteum/aj & 1\\
+  \hline
+  schemaanalyst & 1\\
+  \hline
+  smt-c & 1\\
+  \hline
+  sofya & 1\\
+  \hline
+  sulu tool & 1\\
+  \hline
+  tecc & 1\\
+  \hline
+  trpautorepair & 1\\
+  \hline
+  zoltar & 1\\
+  \hline
+
+  well & 118\\
+  \hline
+  n/a & 44\\
+  \hline
+  not suff. & 28\\
+  \hline
+   & 1\\
+  \hline
+
+  n/a & 108\\
+  \hline
+  manual invest. & 38\\
+  \hline
+  not killed as equivalent & 17\\
+  \hline
+  no invest. & 11\\
+  \hline
+  reduce likelihood & 8\\
+  \hline
+  model checker & 6\\
+  \hline
+  deterministic model & 3\\
+  \hline
+  not killed as nonequivalent & 3\\
+  \hline
+
+  n/a & 131\\
+  \hline
+  fixed number & 28\\
+  \hline
+  weak mutation & 15\\
+  \hline
+  mutant sample & 11\\
+  \hline
+  selection strategy & 8\\
+  \hline
+  higher-order & 1\\
+  \hline
+
+  java & 92\\
+  \hline
+  c & 34\\
+  \hline
+  spec. & 10\\
+  \hline
+  c\# & 6\\
+  \hline
+  fortran & 6\\
+  \hline
+  n/a & 6\\
+  \hline
+  aspectj & 5\\
+  \hline
+  c++ & 5\\
+  \hline
+  sql & 5\\
+  \hline
+  lustre & 4\\
+  \hline
+  simulink & 4\\
+  \hline
+  eiffel & 3\\
+  \hline
+  javascript & 3\\
+  \hline
+  spread-sheet & 3\\
+  \hline
+  c/c++ & 2\\
+  \hline
+  ejb & 2\\
+  \hline
+  ada & 1\\
+  \hline
+  ansi-c & 1\\
+  \hline
+  c++ grammar & 1\\
+  \hline
+  delphi & 1\\
+  \hline
+  hlpsl & 1\\
+  \hline
+  jml & 1\\
+  \hline
+  php & 1\\
+  \hline
+  plc & 1\\
+  \hline
+  sulu & 1\\
+  \hline
+  uml & 1\\
+  \hline
+  xacml & 1\\
+  \hline
+  xml & 1\\
+  \hline
+
+  s & 97\\
+  \hline
+  n/a & 74\\
+  \hline
+  p & 38\\
+  \hline
+  m & 36\\
+  \hline
+  l & 2\\
+  \hline
+
+  n/a & 70\\
+  \hline
+  s & 70\\
+  \hline
+  m & 35\\
+  \hline
+  p & 10\\
+  \hline
+   & 4\\
+  \hline
+  l & 2\\
+  \hline
+
+  n & 96\\
+  \hline
+  y & 95\\
+  \hline
+
+   & 172\\
+  \hline
+  * & 19\\
+  \hline
+

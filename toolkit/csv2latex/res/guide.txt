@@ -1,0 +1,120 @@
+  test data generation & 36\\
+  \hline
+  test case prioritisation & 6\\
+  \hline
+  test strategy evaluation & 6\\
+  \hline
+  test oracle & 5\\
+  \hline
+  test-suite reduction & 5\\
+  \hline
+  fault localisation & 4\\
+  \hline
+   & 2\\
+  \hline
+  development scheme evaluation & 1\\
+  \hline
+  program repairing & 1\\
+  \hline
+  test-case minimisation & 1\\
+  \hline
+
+  generate test data to kill mutants & 9\\
+  \hline
+  generate weak mutant killable conditions & 9\\
+  \hline
+  use mutants to estimate fault-exposing potential & 4\\
+  \hline
+  assign suspicious value to mutants according to test execution information & 3\\
+  \hline
+  generate strong mutant killable conditions & 3\\
+  \hline
+  generate test data to kill mutants (uml state machine mutation) & 3\\
+  \hline
+  rank variables (for test oracle) according to killed mutants & 2\\
+  \hline
+  use traces of mutants and prior faults to train the predication model (decision tree) & 2\\
+  \hline
+  and use these to construct a fault-detection-loss table & 1\\
+  \hline
+  augment test input data to kill mutants & 1\\
+  \hline
+  augment test input data using mutation testing & 1\\
+  \hline
+  complementary to test-driven development to add extra test cases & 1\\
+  \hline
+  generate strong-higher-order mutant killable conditions & 1\\
+  \hline
+  generate test oracles based on the state differences introduced by mutants & 1\\
+  \hline
+  generate weak multiple-mutant-killable conditions & 1\\
+  \hline
+  generate weak/strong mutant killable conditions for test data generation & 1\\
+  \hline
+  optimise subdomain to kill mutants & 1\\
+  \hline
+  order test cases according to prior fault detection information using both hand-seeded and mutation faults & 1\\
+  \hline
+  prioritise test cases in patch validation according to fault-exposing potential & 1\\
+  \hline
+  propose interface-contract mutation coverage as a test adequacy criterion & 1\\
+  \hline
+  strong & 1\\
+  \hline
+  to kill mutants as the requirement & 1\\
+  \hline
+  to kill same mutants as the requirement & 1\\
+  \hline
+  use mutants (in prior version) to estimate fault-detection capability & 1\\
+  \hline
+  use mutants to collect statistics on loss in fault-detection capability at the level of individual statements for various levels of confidence & 1\\
+  \hline
+  use mutants to determine coefficients of the linear regression model with ir and coverage information & 1\\
+  \hline
+  use mutants to determine the impact of the mutation on the execution as fitness function & 1\\
+  \hline
+  use mutants to generalize pre- and post-conditions with the test case into a parameterized unit tests & 1\\
+  \hline
+  use mutation analysis as an indicator of test cases with high fault detection capability to select test cases & 1\\
+  \hline
+  use mutation analysis to generate assertion based on the behavior of the program & 1\\
+  \hline
+  use mutation coverage to generate test data & 1\\
+  \hline
+  use mutation coverage to generate test data and select test cases & 1\\
+  \hline
+  weak & 1\\
+  \hline
+
+  mutation & 39\\
+  \hline
+  hand-seeded & 7\\
+  \hline
+  hand-seeded + mutation & 4\\
+  \hline
+  no evaluation & 4\\
+  \hline
+  real & 2\\
+  \hline
+  11 & 1\\
+  \hline
+  5 & 1\\
+  \hline
+  coverage & 1\\
+  \hline
+
+   & 49\\
+  \hline
+  evaluation set & 5\\
+  \hline
+  traditional & 2\\
+  \hline
+  different operators & 1\\
+  \hline
+  different tool & 1\\
+  \hline
+  later version & 1\\
+  \hline
+  later version + evaluation set & 1\\
+  \hline
+

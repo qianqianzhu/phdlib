@@ -1,0 +1,8 @@
+title,survey,year,covered years,is an slr,main idea
+Test Adequacy and Program Mutation,DeMillo~\cite{demillo1989test},1989,1978-1989,N,"summarise the conceptual basis, development of the mutation testing at the early stage "
+Mutation Testing—An Evolving Technique,Woodward~\cite{woodward1990mutation},1990,1978-1989,N,"review the mutation testing techniques of strong, weak and firm mutation"
+Mutation 2000 Uniting the Orthogonal,Offutt and Untch~\cite{offutt2001mutation},2001,1977-2000,N,review the history of mutation testing and the existing optimisation techniques for mutation testing 
+"A mutation carol/ Past, present and future",Offutt~\cite{offutt2011mutation},2011,1977-2010,N,"review past mutation analysis research starting with the Mothra project,and summarise new trends of applications of mutation testing."
+An Analysis and Survey of the Development of Mutation Testing,Jia and Harman~\cite{jia2011analysis},2011,1977-2009,N,"provide a comprehensive analysis and survey of Mutation Testing, including theories, problems, cost reduction techniques, applications, empirical evaluation and tools. "
+Overcoming the Equivalent Mutant Problem/ A Systematic Literature Review and a Comparative Experiment of Second Order Mutation ,Madeyski et al.~\cite{madeyski2014overcoming},2014,1979-2010,Y,present a systematic literature review in the field of the equivalent mutant problem
+Survey on Mutation-based Test Data Generation,Hanh et al.~\cite{hanh2015survey},2015,1988-2014,N,analyse and conduct a comprehensive survey on generating test data based on mutation testing

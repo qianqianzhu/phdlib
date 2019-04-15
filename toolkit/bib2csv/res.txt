@@ -1,0 +1,98 @@
+Killing strategies for model-based mutation testing
+The effectiveness of test coverage criteria for relational database schema integrity constraints
+Automated Oracle Data Selection Support
+Achieving scalable mutation-based generation of whole test suites
+Guided mutation testing for JavaScript web applications
+Exploiting model morphology for event-based testing
+Incremental model-based mutation testing
+Model-based mutation testing of synchronous and asynchronous real-time systems
+Using mutation to assess fault detection capability of model review
+Sound and quasi-complete detection of infeasible test requirements
+Model-based mutation testing from security protocols in HLPSL
+Metallaxis-FL: Mutation-based fault localization
+Subdomain-based test data generation
+Generating complex and faulty test data through model-based mutation analysis
+Effective test generation and adequacy assessment for javascript-based web applications
+Comparing test quality measures for assessing student-written tests
+Sampling program inputs with mutation analysis: Going beyond combinatorial interaction testing
+Model clone detector evaluation using mutation analysis
+Ask the Mutants: Mutating faulty programs for fault localization
+Automated test case generation for FBD programs implementing reactor protection system software
+Model-based testing of obligations
+Using machine learning techniques to detect metamorphic relations for programs without test oracles
+Checked coverage: An indicator for oracle quality
+Using mutation analysis for a model-clone detector comparison framework
+Empirical evaluation of the statement deletion mutation operator
+Search-based testing of relational schema integrity constraints across multiple database management systems
+Covering and Uncovering Equivalent Mutants
+An empirical evaluation of mutation testing for improving the test quality of safety-critical software
+Testing real-time embedded systems using timed automata based approaches
+Oracle-centric test case prioritization
+Static analysis of model transformations for effective test generation
+Augmented dynamic symbolic execution
+Artificial Neural Networks as multi-networks automated test oracle
+Automated oracle creation support, or: How I learned to stop worrying about fault propagation and love mutation testing
+Automated unit testing of a SCADA control software: An industrial case study based on action research
+Automatic XACML requests generation for policy testing
+Model-based fuzz testing
+Testing obligation policy enforcement using mutation analysis
+Adding criteria-based tests to test driven development
+Using mutants to locate "unknown" faults
+Testing aspect-oriented programs with finite state machines
+Mutation-driven generation of unit tests and oracles
+A case study in model-based testing of specifications and implementations
+An automated approach to reducing test suites for testing retargeted C compilers for embedded systems
+An approach for testing pointcut descriptors in AspectJ
+Assessing oracle quality with checked coverage
+Mutation testing of "go-back" functions based on pushdown automata
+Efficient mutation killers in action
+A framework for the automatic correction of constraint programs
+An empirical evaluation of assertions as oracles
+Testing and validating machine learning classifiers by metamorphic testing
+Test generation via Dynamic Symbolic Execution for mutation testing
+Automatic mutation test case generation via dynamic symbolic execution
+Automated conformance verification of hybrid systems
+Correlating context-awareness and mutation analysis for pervasive computing systems
+Mutation-driven generation of unit tests and oracles
+Automating the mutation testing of aspect-oriented Java programs
+Automated test data generation on the analyses of feature models: A metamorphic testing approach
+Prioritizing state-based aspect tests
+Taming coincidental correctness: Coverage refinement with context patterns to improve fault localization
+Evaluating the accuracy of fault localization techniques
+Should software testers use mutation analysis to augment a test set?
+Test input generation using UML sequence and state machines models
+On guiding the augmentation of an automated test suite via mutation analysis
+Techniques and tools for the automatic generation of optimal test data at code, model and interface level
+Model-based tests for access control policies 1
+Evaluating automated unit testing in Sulu
+Analysing the effectiveness of rule-coverage as a reduction criterion for test suites of grammar-based software
+A search-based framework for automatic testing of MATLAB/Simulink models
+State coverage: A structural test adequacy criterion for behavior checking
+Abstraction in assertion-based test oracles
+Testing software modelling tools using data mutation
+An approach to test data generation for killing multiple mutants
+An empirical analysis and comparison of random testing techniques
+On random testing of image processing applications
+Using mutation analysis for assessing and comparing testing coverage criteria
+Design by contract to improve software vigilance
+Constraint based structural testing criteria
+From genetic to bacteriological algorithms for mutation-based testing
+Effective test case selection for component customization and its application to enterprise JavaBeans
+An empirical study on testing and fault tolerance for software reliability engineering
+Genes and bacteria for automatic test cases optimization in the.NET environment
+Unit and integration testing strategies for C programs using mutation
+Investigating the effectiveness of object-oriented testing strategies using the mutation method
+Generating test cases for XML-based web component interactions using mutation analysis
+An empirical evaluation of statistical testing designed from UML state diagrams: The flight guidance system case study
+Planner based error recovery testing
+Building trust into OO components using a genetic analogy
+Black-box testing using flowgraphs: An experimental assessment of effectiveness and automation potential
+Testability, fault size and the domain-to-range ratio: An eternal triangle
+Generating test data from SOFL specifications
+Specification-based adaptive test case generation strategy for open operating system standards
+Error masking in computer programs
+Automatically Generating Test Data from a Boolean Specification
+Experimental results from an automatic test case generator
+Improving the N-Version Programming Process Through the Evolution of a Design Paradigm
+Constraint-based automatic test data generation
+COMPLETENESS CRITERIA FOR TESTING ELEMENTARY PROGRAM FUNCTIONS.

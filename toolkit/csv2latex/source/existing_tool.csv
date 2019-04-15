@@ -1,0 +1,102 @@
+Aichernig et al.\cite{aichernig2011efficient},$\mu$-java,java
+Aichernig et al.\cite{aichernig2015killing},$\mu$-java,UML
+Androutsopoulos et al.\cite{androutsopoulos2014analysis},SMT-C,C
+Arcuri and Briand\cite{arcuri2011adaptive},MuJava,java
+Asoudeh and Labiche\cite{asoudeh2014multi},MAJOR,java
+Baker and Habli\cite{baker2013empirical},MILU,"C, Ada"
+Bandyopadhyay and Ghosh\cite{bandyopadhyay2009test},MuJava,java
+Bardin et al.\cite{bardin2015sound},MuJava,java
+Baudry et al.\cite{baudry2000building},$\mu$Slayer,Eiffel
+Chen et al.\cite{chen2002can} , Proteum , C 
+Czemerinski et al.\cite{czemerinski2013behaviour},MuJava,java
+Czemerinski et al.\cite{czemerinski2015behaviour} , $\mu$-JAVA , Java 
+Delamare et al.\cite{delamare2011approach},AjMutator,AspectJ
+DeMilli and Offutt\cite{demilli1991constraint} , Mothra, Fortran 
+DeMillo and Offutt\cite{demillo1993experimental},Mothra,Fortran
+Denaro et al.\cite{denaro2015dynamic} , PIT , Java 
+Edwards and Shams\cite{edwards2014comparing},Javalanche,java
+Elbaum et al.\cite{elbaum2002test},Proteum,C
+Fang et al.\cite{fang2014similarity} , Jumble , Java 
+Fraser and Walkinshaw\cite{fraser2015assessing},"Javalanche, EvoSuite",java
+Fraser and Zeller\cite{fraser2012mutation} ,"$\mu$TEST, Javalanche", Java 
+Fraser et al.\cite{fraser2013does},MAJOR,java
+Gopinath et al.\cite{gopinath2014code} , PIT , Java 
+Hao et al.\cite{hao2012demand},"Proteum, MuJava","java, c"
+Hao et al.\cite{hao2014unified} ,"Mujava, Javalanche "," Java, C "
+Harman et al.\cite{harman2011strong} , MiLu , C 
+Inozemtseva et al.\cite{inozemtseva2014coverage} , PIT , Java 
+Jolly et al.\cite{jolly2012automated} , Mutant Power , C\# 
+Kanewala and Bieman\cite{kanewala2013using},$\mu$-java,java
+Khalil and Labiche\cite{khalil2010round},MuJava,java
+Koster and Kao\cite{koster2007state},MuJava,java
+Kracht et al.\cite{kracht2014empirically} , MAJOR , Java 
+Kwon et al.\cite{kwon2014test} , MAJOR , Java 
+Le Traon et al.\cite{le2006design},$\mu$Slayer,Eiffel
+Lorber\cite{lorber2015model},MoMuT::UML,specification (real-time)
+Lou et al.\cite{lou2015mutation},Javalanche,java
+Loyala et al.\cite{loyola2014dodona} , MAJOR , Java 
+Mayer and Guderlei\cite{mayer2006random},MuJava,java
+Mayer and Schneckenburger\cite{mayer2006empirical},MuJava,java
+Mcminn et al.\cite{mcminn2015effectiveness},SchemaAnalyst,SQL 
+Milani et al.\cite{milani2014leveraging} , MUTANDIS, JavaScript 
+Miller and Strooper\cite{miller2012case},MuJava,java
+Mirshokraie\cite{mirshokraie2014effective},MUTANDIS,JavaScript
+Moon et al.\cite{moon2014ask},Proteum,C
+Mouchawrab et al.\cite{mouchawrab2007assessing} , Mujava ,Java
+Mouchawrab et al.\cite{mouchawrab2011assessing} , Mujava ,Java
+Namin and Andrews\cite{namin2009influence} , Proteum ,C
+Offutt and Liu\cite{offutt1999generating},Mothra,n/a
+Papadakis et al.\cite{papadakis2012using},Proteum,C
+Papadakis et al.\cite{papadakis2015metallaxis},Proteum,C
+Patrick et al.\cite{patrick2015subdomain},MuJava,java
+Pinte et al.\cite{pinte2008techniques},MuJava,java
+Rothermel et al.\cite{rothermel1999test},Proteum,C
+Rothermel et al.\cite{rothermel2001prioritizing} , Proteum , C 
+Rutherford et al.\cite{rutherford2008evaluating},MuJava,java
+Schuler and Zeller\cite{schuler2011assessing},Javalanche,java
+Schuler and Zeller\cite{schuler2013checked},Javalanche,java
+Segura et al.\cite{segura2010automated},MuClipse,java
+Shelton et al.\cite{shelton2012adding},MuJava,java
+Shi et al.\cite{shi2014balancing} , PIT , Java 
+Shi et al.\cite{shi2015comparing},PIT,java
+Shrestha and Rutherford\cite{shrestha2011empirical},MuJava,java
+Simith and Williams\cite{smith2009guiding} , MuClipse , Java 
+Smith and Williams\cite{smith2009should},"Jumble, MuClipse",java
+Staats et al.\cite{staats2012oracle},Sofya,java
+Tuya et al.\cite{tuya2010full} , SQLMutation , SQL 
+Vergilio et al.\cite{vergilio2006constraint},Proteum,C
+Wang et al.\cite{wang2010correlating},MuClipse,Java
+Xie et al.\cite{xie2011testing},MuJava,java
+Xuan and Monperrus\cite{xuan2014test} , PIT , Java 
+Yoo and Harman\cite{yoo2012test}, Mujava ,Java
+Zhang and Mesbah\cite{zhang2015assertions} , PIT , Java 
+Zhang et al. \cite{zhang2013bridging} , Mujava , Java 
+Zhang et al.\cite{wang2009taming} , Proteum , C 
+Zhang et al.\cite{zhang2009time},Jester,java
+Zhang et al.\cite{zhang2010test} ," PexMutator, GenMutants ", C\# 
+Zhang et al.\cite{zhang2011empirical} , MuJava , Java 
+Zhang et al.\cite{zhang2014search},MuClipse,"java, C/C++"
+Zhou and Frankl\cite{zhou2011jdama} , JDAMA," Java, sql"
+Offutt et al.\cite{offutt1995procedures}, Mothra,Fortran
+Rojas et al.\cite{rojas2015combining},EvoSuite,java
+Polo et al.\cite{polo2007integrating},MuJava,java
+Flores and Polo\cite{flores2012testing},MuClipse,java
+Vincenzi et al.\cite{vincenzi2001unit},"Proteum, Proteum/IM",C
+Rutherford et al.\cite{rutherford2006simulation},MuJava,java
+Flores and Polo\cite{flores2008testing},MuClipse,java
+Carzaniga et al.\cite{carzaniga2013automatic},MAJOR,java
+Xue and Namin\cite{xue2013significant},MuJava,java
+Carzaniga et al.\cite{carzaniga2014cross},MAJOR,java
+Fraser et al.\cite{fraser2015does},MAJOR,java
+Rojas et al.\cite{rojas2015automated},MAJOR,java
+Wedyan et al.\cite{wedyan2015approach},"AjMutator, Proteum/AJ, mujava",AspectJ
+Pastore et al.\cite{pastore2013crowdoracles},MuJava,java
+Taneja and Xie\cite{taneja2008diffgen},MuJava,java
+Fraser and Zeller\cite{fraser2011generating},"$\mu$TEST, Javalanche",java
+Mirshokraie et al.\cite{mirshokraie2015jseft},MUTANDIS,JavaScript
+Vemasani et al.\cite{vemasani2014generating}, SQLMutation ,SQL 
+Patrick et al.\cite{patrick2013using},MuJava,java
+Just and Schweiggert\cite{just2009evaluating},MuJava,java
+Bradbury et al.\cite{bradbury2007comparative},ExMAn,java
+Poulding and Clark\cite{poulding2010efficient},Proteum/IM,C
+Gallardo et al.\cite{gallardo2006assessment},"Proteum/IM, CreateMutants.py ",C

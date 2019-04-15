@@ -1,0 +1,238 @@
+AbouTrab et al.\cite{aboutrab2013testing} & Testing real-time embedded systems using timed automata based approaches & specification & C & \\
+\hline
+Aichernig et al.\cite{aichernig2015killing} & Killing strategies for model-based mutation testing & specification, arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, program & UML & $\mu$java\\
+\hline
+Ali et al.\cite{ali2007state} & A state-based approach to integration testing based on UML models & specification & java & \\
+\hline
+Andrews et al.\cite{andrews2003general}  & General test result checking with log file analysis & absolute value, arithmetic op, conditional op, relational op, program &  C  & Self-written\\
+\hline
+Andrews et al.\cite{andrews2006using}  & Using mutation analysis for assessing and comparing testing coverage criteria & arithmetic op, relational op, constant, statement deletion, program &  C  &   \cite{andrews2003general} \\
+\hline
+Androutsopoulos et al.\cite{androutsopoulos2014analysis} & An analysis of the relationship between conditional entropy and failed error propagation in software testing & arithmetic op, program & C & SMT-C\\
+\hline
+Antoniol et al.\cite{antoniol2002case} & A case study using the round-trip strategy for state-based class testing & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, method call, control-flow disruption, constant, variable, statement swap, program & C++ & \\
+\hline
+Arcaini et al.\cite{arcaini2015using} & Using mutation to assess fault detection capability of model review & specification & specification (CTL) & \\
+\hline
+Arcuri and Briand\cite{arcuri2011adaptive} & Adaptive random testing: An illusion of effectiveness? & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, absolute value, program & java & MuJava\\
+\hline
+Asoudeh and Labiche\cite{asoudeh2014multi} & Multi-objective construction of an entire adequate test suite for an EFSM & arithmetic op, conditional op, relational op,assignment op, bitwise op, shift op, constant, variable, absolute value, conditional exp, statement deletion, method call, return statement, control-flow disruption, program & java & MAJOR\\
+\hline
+Au{\ss}erlechner et al.\cite{ausserlechner2013right} & The right choice matters! SMT solving substantially improves model-based debugging of spreadsheets & spreadsheet-specific, program & spreadsheet & \\
+\hline
+Baker and Habli\cite{baker2013empirical} & An empirical evaluation of mutation testing for improving the test quality of safety-critical software & arithmetic op, relational op, conditional op, bitwise op, assignment op, statement deletion, constant, program & C, Ada & MILU\\
+\hline
+Bandyopadhyay and Ghosh\cite{bandyopadhyay2009test} & Test input generation using UML sequence and state machines models & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific & java & MuJava\\
+\hline
+Bardin et al.\cite{bardin2015sound} & Sound and quasi-complete detection of infeasible test requirements & arithmetic op, conditional op, relational op, program & java & MuJava\\
+\hline
+Baudry et al.\cite{baudry2000building} & Building trust into oo components using a genetic analogy & exception handler, arithmetic op, conditional op, relational op, statement deletion, constant, variable, method call, OO-specific, program & Eiffel & $\mu$Slayer\\
+\hline
+Baudry et al.\cite{baudry2002genes} & Genes and bacteria for automatic test cases optimization in the. net environment & conditional op, conditional exp, statement deletion, program & C\# & \\
+\hline
+Baudry et al.\cite{baudry2005genetic} & From genetic to bacteriological algorithms for mutation-based testing & exception handler, arithmetic op, conditional op, relational op, statement deletion, constant, variable, method call, OO-specific, program & Eiffel, C\# (statement deletion) & \\
+\hline
+Belli and Beyaz{\i}t\cite{belli2015exploiting} & Exploiting model morphology for event-based testing & specification & n/a & \\
+\hline
+Belli et al.\cite{belli2011mutation} & Mutation Testing of" Go-Back" Functions Based on Pushdown Automata & specification & Specification (pushdown automata) & \\
+\hline
+Bertolino et al.\cite{bertolino2012automatic} & Automatic XACML requests generation for policy testing & specification & XACML & \cite{martin2007fault}\\
+\hline
+Briand et al.\cite{briand2004assessing} & Assessing and improving state-based class testing: A series of experiments & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, method call, control-flow disruption, constant, variable, statement swap, exception handler, Java-specific, program & java, c++ & \\
+\hline
+Briand et al.\cite{briand2005improving} & Improving statechart testing criteria using data flow information & arithmetic op, constant, method call, relational op, return statement, statement deletion, program & java & \\
+\hline
+Chae et al.\cite{chae2011automated} & An automated approach to reducing test suites for testing retargeted C compilers for embedded systems & variable, program & C & \\
+\hline
+Chevalley and Th{\'e}venod-Fosse\cite{chevalley2001empirical} & An empirical evaluation of statistical testing designed from UML state diagrams: the flight guidance system case study & variable, arithmetic op, relational op, constant, parentheses, program & java & Self-written\\
+\hline
+Czemerinski et al.\cite{czemerinski2013behaviour} & Behaviour abstraction coverage as black-box adequacy criteria & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, absolute value, OO-specific, Java-specific, program & java & MuJava\\
+\hline
+Czemerinski et al.\cite{czemerinski2015behaviour}  & Behaviour abstraction adequacy criteria for API call protocol testing & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, absolute value, OO-specific, Java-specific, program &  Java  &  $\mu$-JAVA \\
+\hline
+Delamare et al.\cite{delamare2011approach} & An approach for testing pointcut descriptors in aspectj & AOP-specific, program & AspectJ & AjMutator\\
+\hline
+Di Nardo et al.\cite{di2015generating} & Generating complex and faulty test data through model-based mutation analysis & specification & Specification (Object Constraint Language) & \\
+\hline
+Do and Rothermel\cite{do2005controlled} & A controlled experiment assessing test case prioritization techniques via mutation faults & arithmetic op, relational op, conditional op, method call, OO-specific, program & Java & Self-written\\
+\hline
+Do and Rothermel\cite{do2006use} & On the use of mutation faults in empirical assessments of test case prioritization techniques & arithmetic op, relational op, conditional op, method call, OO-specific, program & Java & Self-written\\
+\hline
+Do et al.\cite{do2008empirical} & An empirical study of the effect of time constraints on the cost-benefits of regression testing & arithmetic op, relational op, conditional op, method call, OO-specific, program & java & Self-written\\
+\hline
+Edwards\cite{edwards2000black} & Black-box testing using flowgraphs: an experimental assessment of effectiveness and automation potential & arithmetic op, relational op, conditional op, absolute value, program & Specification (RESOLVE) & \\
+\hline
+Fraser and Walkinshaw\cite{fraser2015assessing} & Assessing and generating test sets in terms of behavioural adequacy & constant, conditional op, arithmetic op, statement deletion, absolute value, variable, conditional exp,program & java & Javalanche, EvoSuite\\
+\hline
+Fraser et al.\cite{fraser2015achieving} & Achieving scalable mutation-based generation of whole test suites & arithmetic op, relational op, constant, variable, conditional op, statement deletion, OO-specific, bitwise op, program & Java & EvoSuite\\
+\hline
+Gay et al.\cite{gay2015automated} & Automated oracle data selection support & arithmetic op, relational op, conditional op, constant, variable, program & simulink & \\
+\hline
+Gupta and Jalote\cite{gupta2007test} & Test inspected unit or inspect unit tested code? & OO-specific, constant, arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, control-flow disruption, method call, statement swap, variable, conditional exp, program & java & manual\\
+\hline
+Hennessy and Power\cite{hennessy2008analysing}  & Analysing the effectiveness of rule-coverage as a reduction criterion for test suites of grammar-based software & absolute value, arithmetic op, conditional op, relational op, program &  ISO C++ Grammar  & Self-written\\
+\hline
+Hofer and Wotawa\cite{hofer2014does} & Why does my spreadsheet compute wrong values? & spreadsheet-specific, program & spreadsheet & \\
+\hline
+Holt et al.\cite{holt2012state} & State-based testing: Industrial evaluation of the cost-effectiveness of round-trip path and sneak-path strategies & specification & C++ & Hand-seeded\\
+\hline
+Hong et al.\cite{hong2013impact}  & The impact of concurrent coverage metrics on testing effectiveness & concurrent mutation, program &  Java  & \\
+\hline
+Hong et al.\cite{hong2015concurrency} & Are concurrency coverage metrics effective for testing: a comprehensive empirical investigation & concurrent mutation, program & java & \\
+\hline
+Hou et al.\cite{hou2007applying} & Applying interface-contract mutation in regression testing of component-based software & arithmetic op, conditional op, relational op, constant, variable, Interface mutation, program & Java & \\
+\hline
+Jee et al.\cite{jee2014automated} & Automated test case generation for FBD programs implementing reactor protection system software & specification & PLC & \\
+\hline
+Kanewala and Bieman\cite{kanewala2013using} & Using machine learning techniques to detect metamorphic relations for programs without test oracles & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, program & java & $\mu$java\\
+\hline
+Kapfhammer et al.\cite{kapfhammer2013search} & Search-based testing of relational schema integrity constraints across multiple database management systems & SQL-specific, program & SQL  & \\
+\hline
+Khalil and Labiche\cite{khalil2010round} & On the round trip path testing strategy & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific, program & java & MuJava\\
+\hline
+Koster and Kao\cite{koster2007state} & State coverage: a structural test adequacy criterion for behavior checking & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific, program & java & MuJava\\
+\hline
+Kracht et al.\cite{kracht2014empirically}  & Empirically evaluating the quality of automatically generated and manually written test suites & arithmetic op, conditional op, relational op,assignment op, bitwise op, shift op, constant, variable, absolute value, conditional exp, statement deletion, method call, return statement, control-flow disruption,program &  Java  &  MAJOR \\
+\hline
+Le Traon et al.\cite{le2006design} & Design by contract to improve software vigilance & exception handler, arithmetic op, conditional op, relational op, statement deletion, constant, variable, OO-specific, program & Eiffel & $\mu$Slayer\\
+\hline
+Le Traon et al.\cite{le2007testing} & Testing Security Policies: Going Beyond Functional Testing & specification & specification (OrBAC) & \\
+\hline
+Lee and Offutt\cite{lee2001generating} & Generating test cases for XML-based Web component interactions using mutation analysis & specification & XML & \\
+\hline
+Lei  and Andrews\cite{lei2005minimization} & Minimization of randomized unit test cases & absolute value, arithmetic op, conditional op, relational op, program & C & \\
+\hline
+Li et al.\cite{li2007practical} & A practical approach to testing GUI systems & arithmetic op, conditional op, bitwise op, constant, variable, Java-specific, OO-specific, return statement, program & java & \\
+\hline
+Liu et al.\cite{liu2006approach}  & An approach to test data generation for killing multiple mutants & arithmetic op, relational op, conditional op, constant, variable, program &  Java  & Self-written\\
+\hline
+Lou et al.\cite{lou2015mutation} & Mutation-based test-case prioritization in software evolution & constant, conditional op, arithmetic op, statement deletion, absolute value, variable, conditional exp, program & java & Javalanche\\
+\hline
+Mayer and Guderlei\cite{mayer2006random} & On random testing of image processing applications & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, absolute value, program & java & MuJava\\
+\hline
+Mayer and Schneckenburger\cite{mayer2006empirical} & An empirical analysis and comparison of random testing techniques & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, absolute value, program & java & MuJava\\
+\hline
+Mcminn et al.\cite{mcminn2015effectiveness} & The effectiveness of test coverage criteria for relational database schema integrity constraints & SQL-specific, program & SQL  & SchemaAnalyst\\
+\hline
+Milani et al.\cite{milani2014leveraging}  & Leveraging existing tests in automated test generation for web applications & method call, variable, JS-specific, program &  JavaScript  &  MUTANDIS \cite{mirshokraie2013efficient} \\
+\hline
+Miller and Strooper\cite{miller2012case} & A case study in model-based testing of specifications and implementations & specification, arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,absolute value, OO-specific, Java-specific, program & java & MuJava, manual\\
+\hline
+Mottu et al.\cite{mottu2012static} & Static analysis of model transformations for effective test generation & specification & Aspect-oriented (Kermeta) & \\
+\hline
+Namin and Andrews\cite{namin2009influence}  & The influence of size and coverage on test suite effectiveness & arithmetic op, bitwise op, return statement, conditional op, assignment op, type, relational op, goto label, loop trap, brace, switch statement, conditional exp, while statement, variable, program & C &  Proteum \\
+\hline
+Ntafos\cite{ntafos1984evaluation} & An evaluation of required element testing strategies & constant, variable, arithmetic op, relational op, conditional op, statement deletion, return statement, goto label, do statement, bomb statement, program & Fortran & \cite{budd1979mutation}\\
+\hline
+Offutt and Liu\cite{offutt1999generating} & Generating test data from SOFL specifications & constant, variable, arithmetic op, relational op, conditional op, statement deletion, return statement, goto label, do statement, bomb statement, absolute value, program & n/a & Mothra\\
+\hline
+Papadakis and Malevris\cite{papadakis2010automatic}  & Automatic mutation test case generation via dynamic symbolic execution & absolute value, arithmetic op,  relational op &  Java  & jFuzz\\
+\hline
+Papadakis and Malevris\cite{papadakis2011automatically}  & Automatically performing weak mutation with the aid of symbolic execution, concolic testing and search-based testing & absolute value, arithmetic op, conditional op, relational op, program &  Java  &  jFuzz \\
+\hline
+Papadakis and Malveris\cite{papadakis2012mutation}  & Mutation based test case generation via a path selection strategy & absolute value, arithmetic op, conditional op, relational op, program & Delphi, C, n/a & \\
+\hline
+Papadakis et al.\cite{papadakis2014sampling}  & Sampling program inputs with mutation analysis: Going beyond combinatorial interaction testing & specification &  C  & \\
+\hline
+Pretschner et al.\cite{pretschner2008model} & Model-based tests for access control policies & specification & Specification (policy decision point) & \\
+\hline
+Rubab et al.\cite{rubab2014model} & Model-based testing of obligations & specification & Specification (Object Constraint Language) & \\
+\hline
+Rutherford et al.\cite{rutherford2008evaluating} & Evaluating test suites and adequacy criteria using simulation-based models of distributed systems & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, absolute value,OO-specific, Java-specific, program & java & MuJava\\
+\hline
+Segura et al.\cite{segura2010automated} & Automated test data generation on the analyses of feature models: A metamorphic testing approach & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,absolute value, program & java & MuClipse\\
+\hline
+Shi et al.\cite{shi2014balancing}  & Balancing trade-offs in test-suite reduction & arithmetic op, shift op, bitwise op, relational op, conditional op,  assignment op,  conditional exp, return statement, OO-specific, constant, statement deletion, variable, switch statement, program &  Java  &  PIT \\
+\hline
+Shrestha and Rutherford\cite{shrestha2011empirical} & An empirical evaluation of assertions as oracles & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, program & java & MuJava\\
+\hline
+Simith and Williams\cite{smith2009guiding}  & On guiding the augmentation of an automated test suite via mutation analysis & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific, program &  Java  &  MuClipse \\
+\hline
+Smith and Williams\cite{smith2009should} & Should software testers use mutation analysis to augment a test set? & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, constant, return statement, switch statement, OO-specific, Java-specific, program & java & Jumble, MuClipse\\
+\hline
+Staats et al.\cite{staats2012oracle} & Oracle-centric test case prioritization & arithmetic op, conditional op, relational op, method call, program & java & Sofya\\
+\hline
+Stephan and Cordy\cite{stephan2014model} & Model Clone Detector Evaluation Using Mutation Analysis & specification & simulink & \\
+\hline
+Tan and Edwards\cite{tan2008evaluating} & Evaluating automated unit testing in sulu & arithmetic op, relational op, conditional op, conditional exp, statement deletion, program & sulu & sulu tool\\
+\hline
+Tasiran et al.\cite{tasiran2012location} & Location pairs: a test coverage metric for shared-memory concurrent programs & concurrent mutation, program & java & \\
+\hline
+Tuya et al.\cite{tuya2010full}  & Full predicate coverage for testing SQL database queries & arithmetic op, conditional op, relational op, absolute value, constant, variable, SQL-specific, program &  SQL  &  SQLMutation \\
+\hline
+Vergilio et al.\cite{vergilio2006constraint} & Constraint based structural testing criteria & bomb statement, conditional exp, statement deletion, return statement, goto label, control-flow disruption, while statement, do statement, loop trap, statement swap, brace, switch statement, arithmetic op, bitwise op, conditional op, shift op, relational op, assignment op, parentheses, type, variable, constant, program & C & Proteum\\
+\hline
+von Mayrhauser et al.\cite{von2000planner} & Planner based error recovery testing & specification & n/a & \\
+\hline
+Wang et al.\cite{wang2010correlating} & Correlating context-awareness and mutation analysis for pervasive computing systems & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, absolute value,OO-specific, Java-specific, program & Java & MuClipse\\
+\hline
+Watanabe and Sakamura\cite{watanabe1996specification} & A specification-based adaptive test case generation strategy for open operating system standards & relational op, constant, method call, program & Specification (Z notation) & \\
+\hline
+Weyuker et al.\cite{weyuker1994automatically} & Automatically generating test data from a Boolean specification & specification & n/a & \\
+\hline
+Xie et al.\cite{xie2011testing} & Testing and validating machine learning classifiers by metamorphic testing & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, program & java & MuJava\\
+\hline
+Xu and Ding\cite{xu2010prioritizing} & Prioritizing state-based aspect tests & AOP-specific, program & Aspect-oriented (AspectJ) & \\
+\hline
+Xu et al.\cite{xu2012testing} & Testing aspect-oriented programs with finite state machines & specification & Aspect-oriented (AspectJ) & \\
+\hline
+Xuan and Monperrus\cite{xuan2014test}  & Test case purification for improving fault localization & arithmetic op, shift op, bitwise op, return statement, conditional op, assignment op, program &  Java  &  PIT \\
+\hline
+Yoo and Harman\cite{yoo2012test} & Test data regeneration: generating new test data from existing test data & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, program & Java &  Mujava \\
+\hline
+Yoon and Choi\cite{yoon2004effective} & Effective test case selection for component customization and its application to Enterprise JavaBeans & interface mutation, program & Enterprise JavaBeans application & TECC\\
+\hline
+Zhang and Mesbah\cite{zhang2015assertions}  & Assertions are strongly correlated with test suite effectiveness & relational op, arithmetic op, shift op, bitwise op, conditional op, assignment op, return statement, statement deletion, program &  Java  &  PIT \\
+\hline
+Zhang et al.\cite{zhang2009time} & Time-aware test-case prioritization using integer linear programming & constant, conditional exp, program & java & Jester\\
+\hline
+Zhang et al.\cite{zhang2010test}  & Test generation via dynamic symbolic execution for mutation testing & absolute value, arithmetic op, conditional op, relational op, program &  C\#  &  PexMutator, GenMutants \\
+\hline
+Zhang et al.\cite{zhang2011empirical}  & An empirical study of junit test-suite reduction & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op, program &  Java  &  MuJava \\
+\hline
+Zhou and Frankl\cite{zhou2011jdama}  & JDAMA: Java database application mutation analyser & arithmetic op, conditional op, relational op, absolute value, constant, variable, SQL-specific, program & sql &  JDAMA (based on SQLMutation) \\
+\hline
+Offutt et al.\cite{offutt1995procedures} & Procedures for reducing the size of coverage-based test sets & constant, variable, arithmetic op, relational op, conditional op, statement deletion, return statement, goto label, do statement, bomb statement, absolute value, program & Fortran &  Mothra\\
+\hline
+Rojas et al.\cite{rojas2015combining} & Combining multiple coverage criteria in search-based unit test generation & arithmetic op, relational op, constant, variable, conditional op, statement deletion, OO-specific, bitwise op, program & Java & EvoSuite\\
+\hline
+Dadeau et al.\cite{dadeau2011mutation} & Mutation-based test generation from security protocols in HLPSL & specification & HLPSL & jMuHLPSL\\
+\hline
+Polo et al.\cite{polo2007integrating} & Integrating techniques and tools for testing automation & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,absolute value,OO-specific, Java-specific, program & java & MuJava\\
+\hline
+Flores and Polo\cite{flores2012testing} & Testing-based process for component substitutability & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific, Interface mutation, program & java & MuClipse, testooj\\
+\hline
+Vincenzi et al.\cite{vincenzi2001unit} & Unit and integration testing strategies for C programs using mutation & bomb statement, conditional exp, statement deletion, return statement, goto label, control-flow disruption, while statement, do statement, loop trap, statement swap, brace, switch statement, arithmetic op, bitwise op, conditional op, shift op, relational op, assignment op, parentheses, type, variable, constant, interface mutation, program & C & Proteum, Proteum/IM\\
+\hline
+Mariani et al.\cite{mariani2007compatibility} & Compatibility and regression testing of COTS-component-based software & interface mutation, program & java & \\
+\hline
+Edwards\cite{edwards2001framework} & A framework for practical, automated black-box testing of component-based software & absolute value, arithmetic op, conditional op, relational op, program & C++ & \\
+\hline
+Flores and Polo\cite{flores2008testing} & Testing-based process for component substitutability & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific, Interface mutation, program & java & MuClipse, testooj\\
+\hline
+Carzaniga et al.\cite{carzaniga2013automatic} & Automatic Recovery from Runtime Failures & arithmetic op, conditional op, relational op,assignment op, bitwise op, shift op, constant, variable, absolute value, conditional exp, statement deletion, method call, return statement, control-flow disruption, program & java & MAJOR\\
+\hline
+Xue and Namin\cite{xue2013significant} & How significant is the effect of fault interactions on coverage-based fault localizations? & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific, program & java & MuJava\\
+\hline
+Carzaniga et al.\cite{carzaniga2014cross} & Cross-Checking Oracles from Intrinsic Software Redundancy & arithmetic op, conditional op, relational op,assignment op, bitwise op, shift op, constant, variable, absolute value, conditional exp, statement deletion, method call, return statement, control-flow disruption, program & java & MAJOR\\
+\hline
+Wedyan et al.\cite{wedyan2015approach} & An approach and tool for measurement of state variable based data-flow test coverage for aspect-oriented programs & AOP-specific, program & Aspect-oriented (AspectJ) & AjMutator, Proteum/AJ, mujava\\
+\hline
+Murphy et al.\cite{murphy2009automatic} &  & arithmetic op, relational op, program & java & \\
+\hline
+Pastore et al.\cite{pastore2013crowdoracles} & CrowdOracles: Can the Crowd Solve the Oracle Problem? & absolute value, arithmetic op, conditional op, relational op, program & java & MuJava\\
+\hline
+El-Fakih et al.\cite{el2014studying} &  & specification & specification (EFSM) & \\
+\hline
+Vemasani et al.\cite{vemasani2014generating} &  & arithmetic op, conditional op, relational op, absolute value, constant, variable, SQL-specific, program & sql &  SQLMutation \\
+\hline
+Riener et al.\cite{riener2011test} &  & arithmetic op, relational op, bitwise op, constant & ANSI-C & \\
+\hline
+Just and Schweiggert\cite{just2009evaluating} & Evaluating testing strategies for imaging software by means of Mutation Analysis & arithmetic op, relational op, conditional op, bitwise op, assignment op, shift op,OO-specific, Java-specific, program & java & MuJava\\
+\hline
+Bradbury et al.\cite{bradbury2007comparative} &  & concurrent mutation, program & java & ExMAn\\
+\hline
+Poulding and Clark\cite{poulding2010efficient} &  & interface mutation, program & C & Proteum/IM\\
+\hline
+Gallardo et al.\cite{gallardo2006assessment} &  & arithmetic op, constant, program & C & Proteum/IM, CreateMutants.py \\
+\hline

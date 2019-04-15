@@ -1,0 +1,33 @@
+Automatic Recovery from Runtime Failures,ICSE14,,,,
+How Significant Is the Effect of Fault Interactions on Coverage-based Fault Localizations?,ESEM'13,,,,
+Cross-Checking Oracles from Intrinsic Software Redundancy,ICSE'14,Automatic System Testing of Programs without Test Oracles,issta,CrowdOracles: Can the Crowd Solve the Oracle Problem?,icst
+Does Automated Unit Test Generation Really Help Software Testers? A Controlled Empirical Study,TOSEM,,,,
+Automated Unit Test Generation during Software Development: A Controlled Experiment and Think-Aloud Observations,ISSTA'15,,,,
+An approach and tool for measurement of state variable based data-flow test coverage for aspect-oriented programs,IST,,,,
+Automatic System Testing of Programs without Test Oracles,issta,Spectrum-Based Fault Localization: Testing Oracles Are No Longer Mandatory,qsic,Backward-Slice-based Statistical Fault Localization without Test Oracles,qsic
+CrowdOracles: Can the Crowd Solve the Oracle Problem?,icst,DiffGen: Automated Regression Unit-Test Generation,ase,,
+DiffGen: Automated Regression Unit-Test Generation,ase,Generating Parameterized Unit Tests,issta,JSEFT: Automated JavaScript Unit Test Generation,icst
+Generating Parameterized Unit Tests,issta,PYTHIA: Generating Test Cases with Oracles for JavaScript Applications,ASE,,
+JSEFT: Automated JavaScript Unit Test Generation,icst,,,,
+On Studying the Effectiveness of Extended Finite State Machine Based Test Selection Criteria,mutation,The 8th International Workshop on Mutation Analysis (Mutation 2013),,,
+Generating Test Data to Distinguish Conjunctive Queries with Equalities,mutation,,,,
+Using Mutation Analysis to Evolve Subdomains for Random Testing,mutation,Efficient Software Verification: Statistical Testing Using Automated Search,TSE,Efficient Subdomains for Random Testing,ssbse
+Test Case Generation from Mutants using Model Checking Techniques,mutation,,,,
+Evaluating testing strategies for imaging software by means of Mutation Analysis,mutation,,,,
+Assertion-Driven Development: Assessing the Quality of Contracts using Meta-Mutations,mutation,,,,
+Comparative Assessment of Testing and Model Checking Using Program Mutation,mutation,Detection and Analysis of Near-Miss Software Clones,ICSM,,
+Assessment of Data Diversity Methods for Software Fault Tolerance Based on Mutation Analysis,mutation,,,,
+Efficient Software Verification: Statistical Testing Using Automated Search,TSE,,,,
+
+
+
+,icse,2,,,
+,ESEM'13,1,,,
+,tosem,1,,,
+,issta,3,,,
+,ist,1,,,
+,icst,2,,,
+,mutation,8,,,
+,tse,1,,,
+,ase,1,,,
+,,20,,,

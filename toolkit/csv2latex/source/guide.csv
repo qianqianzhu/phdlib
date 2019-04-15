@@ -1,0 +1,65 @@
+Shelton et al.\cite{shelton2012adding},development scheme evaluation,complementary to Test-Driven Development to add extra test cases,mutation,
+Moon et al.\cite{moon2014ask},fault localisation,assign suspicious value to mutants according to test execution information,Hand-seeded ,
+Murtaza et al.\cite{murtaza2011diagnosing},fault localisation,use traces of mutants and prior faults to train the predication model (decision tree),real ,
+Papadakis et al.\cite{papadakis2012using},fault localisation,assign suspicious value to mutants according to test execution information,Hand-seeded ,
+Papadakis et al.\cite{papadakis2015metallaxis},fault localisation,assign suspicious value to mutants according to test execution information,Hand-seeded ,
+Qi et al.\cite{qi2013efficient},program repairing,prioritise test cases in patch validation according to fault-exposing potential,mutation ,
+Elbaum et al.\cite{elbaum2002test},test case prioritisation,use mutants to estimate fault-exposing potential,Hand-seeded ,
+Lou et al.\cite{lou2015mutation},test case prioritisation,use mutants (in prior version) to estimate fault-detection capability,mutation,"later version, evaluation set"
+Rothermel et al.\cite{rothermel1999test},test case prioritisation,use mutants to estimate fault-exposing potential,Hand-seeded ,evaluation set
+Kwon et al.\cite{kwon2014test} ,test case prioritisation ,use mutants to determine coefficients of the linear regression model with IR and coverage information,mutation,
+Qu et al. \cite{qu2008configuration} ,test case prioritisation ,order test cases according to prior fault detection information using both hand-seeded and mutation faults,Hand-seeded + mutation  ,
+Rothermel et al.\cite{rothermel2001prioritizing} ,test case prioritisation ,use mutants to estimate fault-exposing potential,Hand-seeded ,
+Aichernig et al.\cite{aichernig2011efficient},test data generation,generate test data to kill mutants (UML state machine mutation),mutation, traditional
+Aichernig et al.\cite{aichernig2015killing},test data generation,generate test data to kill mutants (UML state machine mutation),mutation,traditional
+Bardin et al.\cite{bardin2015sound},test data generation,generate weak mutant killable conditions,no evaluation,
+Baudry et al.\cite{baudry2002genes},test data generation,generate test data to kill mutants,mutation,
+Baudry et al.\cite{baudry2005genetic},test data generation,generate test data to kill mutants,mutation,
+Belli and Beyaz{\i}t\cite{belli2015exploiting},test data generation,generate test data to kill mutants,mutation,
+DeMillo and Offutt\cite{demillo1993experimental},test data generation,generate weak mutant killable conditions,mutation,
+Di Nardo et al.\cite{di2015generating},test data generation,generate test data to kill mutants,mutation,
+Fraser et al.\cite{fraser2013does},test data generation,use mutation analysis to generate assertion based on the behavior of the program,hand-seeded + mutation,
+Fraser et al.\cite{fraser2015achieving},test data generation,generate weak/strong mutant killable conditions for test data generation,mutation ,
+Jamrozik et al.\cite{jamrozik2012augmented},test data generation,augment test input data using mutation testing,mutation,
+Lee and Offutt\cite{lee2001generating},test data generation,generate test data to kill mutants,mutation,
+Lorber\cite{lorber2015model},test data generation,generate test data to kill mutants (UML state machine mutation),no evaluation,
+Patrick et al.\cite{patrick2015subdomain},test data generation,optimise subdomain to kill mutants,mutation,
+von Mayrhauser et al.\cite{von2000planner},test data generation,augment test input data to kill mutants,no evaluation,
+DeMilli and Offutt\cite{demilli1991constraint} ,test data generation ,generate weak mutant killable conditions,mutation ,
+Harman et al.\cite{harman2011strong} ,test data generation ,generate strong-higher-order mutant killable conditions,mutation ,
+Liu et al.\cite{liu2006approach} ,test data generation ,generate weak multiple-mutant-killable conditions,mutation ,
+Papadakis and Malevris\cite{papadakis2010automatic} ,test data generation ,generate strong mutant killable conditions,mutation ,
+Papadakis and Malevris\cite{papadakis2011automatically} ,test data generation ,generate weak mutant killable conditions,mutation ,
+Papadakis and Malveris\cite{papadakis2012mutation} ,test data generation ,generate weak mutant killable conditions,mutation ,
+Simith and Williams\cite{smith2009guiding} ,test data generation ,to kill mutants as the requirement,mutation ,
+Vivanti et al.\cite{vivanti2013search} ,test data generation ,generate weak mutant killable conditions,mutation ,
+Zhang et al.\cite{zhang2010test} ,test data generation ,generate weak mutant killable conditions,mutation,different tool
+Mirshokraie\cite{mirshokraie2014effective},"test data generation, test oracle, test strategy evaluation",generate test data to kill mutants,mutation,
+Fraser and Zeller\cite{fraser2012mutation} ,"test data generation, test oracle, test-case minimisation ",use mutants to determine the impact of the mutation on the execution as fitness function,mutation ,
+Baudry et al.\cite{baudry2000building},"test data generation, test strategy evaluation",use mutation coverage to generate test data and select test cases,mutation,
+Fraser and Walkinshaw\cite{fraser2015assessing},"test data generation, test strategy evaluation",generate weak mutant killable conditions,mutation ,
+Zhan and Clark\cite{zhan2008search},"test data generation, test-suite reduction",generate strong mutant killable conditions,mutation,
+Gay et al.\cite{gay2015automated},test oracle,rank variables (for test oracle) according to killed mutants,mutation,evaluation set
+Staats et al.\cite{staats2012automated} ,test oracle,rank variables (for test oracle) according to killed mutants,mutation,evaluation set
+Hou et al.\cite{hou2007applying},test strategy evaluation,Propose Interface-Contract Mutation coverage as a test adequacy criterion,Hand-seeded + mutation,different operators
+Smith and Williams\cite{smith2009should},test strategy evaluation,use mutation coverage to generate test data,mutation,
+Chen et al.\cite{chen2002can} ,test strategy evaluation ,use mutants to estimate fault-exposing potential,Hand-seeded ,
+Hao et al.\cite{hao2012demand},test-suite reduction,"use mutants to collect statistics on loss in fault-detection capability at the level of individual statements for various levels of confidence, and use these to construct a fault-detection-loss table",Hand-seeded + mutation,later version + evaluation set
+Offutt et al.\cite{offutt1995procedures},test-suite reduction,use traces of mutants and prior faults to train the predication model (decision tree),real ,
+Shi et al.\cite{shi2014balancing} ,test-suite reduction ,to kill same mutants as the requirement,mutation ,
+Rojas et al.\cite{rojas2015combining},test data generation ,generate weak mutant killable conditions,coverage,
+Dadeau et al.\cite{dadeau2011mutation},test data generation ,generate test data to kill mutants,mutation,
+Vincenzi et al.\cite{vincenzi2001unit},test data generation,generate test data to kill mutants,mutation,
+Briand et al.\cite{briand2006automated},test-suite reduction,use mutation analysis as an indicator of test cases with high fault detection capability to select test cases,no evaluation,
+Fraser and Zeller\cite{fraser2011generating},test data generation,use mutants to generalize pre- and post-conditions with the test case into a parameterized unit tests,mutation,
+Mirshokraie et al.\cite{mirshokraie2015jseft},"test data generation, test oracle",generate test oracles based on the state differences introduced by mutants,mutation,evaluation set
+Vemasani et al.\cite{vemasani2014generating},test data generation,generate test data to kill mutants,mutation,
+Riener et al.\cite{riener2011test},test data generation,generate strong mutant killable conditions,mutation,
+
+
+
+
+
+
+,,weak,11,
+,,strong,5,
